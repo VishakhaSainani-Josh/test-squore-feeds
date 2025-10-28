@@ -1,30 +1,72 @@
 {
-  "config": {
-    "name": "SRFI Men’s Division A",
-    "clubName": "Chennai Squash Club",
-    "clubLogo": "https://yourdomain.vercel.app/chennai-logo.png",
-    "numberOfGamesToWinMatch": 3,
-    "numberOfPointsToWinGame": 11,
-    "PostResult": "https://yourdomain.vercel.app/api/matchresult"
-  },
-  "matches": [
-    {
-      "A": "Dish",
-      "B": "Mad",
-      "id": "101",
-      "date": "2025-10-28",
-      "time": "12:30",
-      "court": "C4",
-      "event": "Yadupati Singhania Memorial Squash Tournament"
-    },
-    {
-      "A": "Ravi",
-      "B": "Arjun",
-      "id": "102",
-      "date": "2025-10-29",
-      "time": "10:00",
-      "court": "C2",
-      "event": "Chennai Open 2025"
+  "ERE Dames": [
+        {
+      "A": {
+        "club": "bsp club",
+        "teamid": "61"
+      },
+      "B": {
+        "club": "poona club",
+        "teamid": "64"
+      },
+      "date": "Fri 10/09/2021",
+      "time": "20:30",
+      "result": "3-0"
     }
-  ]
+  ],
+  "team_players": {
+    "22": [
+      {
+        "id": "169",
+        "name": "vishakha, sahil"
+      },
+      {
+        "id": "170",
+        "name": "krushnal, aditya"
+      },
+      {
+        "id": "157",
+        "name": "Van Cauter, Annemie"
+      }
+    ],
+    "23": [
+      {
+        "id": "173",
+        "name": "sahil, krushnal"
+      },
+      {
+        "id": "174",
+        "name": "aditya, sahil"
+      },
+      {
+        "id": "155",
+        "name": "Van Welden, Jorien"
+      },
+      {
+        "id": "159",
+        "name": "Van Den Steen, Sara"
+      }
+    ]
+  },
+  "config": {
+    "__SportNr__": 1,
+    "__SportName__": "squash",
+    "__TS_GUID__": "52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__generated__": "2025-10-28T11:35:35.601Z",
+    "__NumberOfHttpGets__": 10,
+    "__GenerateBy__": "nodejs-v22.18.0 tournamentsoftwarefeed-1.0.7",
+    "__nrOfMatches__": 30,
+    "__nrOfMatchesWithResult__": 30,
+    "hideCompletedMatchesFromFeed": false,
+    "numberOfPointsToWinGame": 11,
+    "numberOfGamesToWinMatch": 3,
+    "timerPauseBetweenGames": 120,
+    "groupMatchesInFeedByCourt": false,
+    "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
+    "name": "vishakha",
+    "Placeholder_Match": "${date} : ${FirstOfList:~${A}~${A.club}~${A.name}~} - ${FirstOfList:~${B}~${B.club}~${B.name}~} ${result}",
+    "Placeholder_TeamPlayer": "${seqNo}. ${name}"
+  }
 }
