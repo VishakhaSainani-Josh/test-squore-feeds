@@ -1,9 +1,569 @@
-[
-  {
-    "Section": "SRFI 2025 Season",
-    "Name": "Men’s Division ABCD",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
-    "ValidFrom": "20250101",
-    "ValidTo": "20251231"
+{
+  "1ª Classe Masculina": [
+    {
+      "id": "56",
+      "name": "Lincoln Alves De Jesus"
+    },
+    {
+      "id": "59",
+      "name": "João Estrela"
+    },
+    {
+      "id": "84",
+      "name": "Allisson Andrade"
+    },
+    {
+      "id": "72",
+      "name": "Murilo Guimarães"
+    },
+    {
+      "id": "46",
+      "name": "Antonio Willian Rodrigues Lima"
+    },
+    {
+      "id": "90",
+      "name": "Marcelo Ferri"
+    },
+    {
+      "id": "35",
+      "name": "Murilo Fernandes"
+    },
+    {
+      "id": "58",
+      "name": "Vitor Penteado"
+    }
+  ],
+  "2ª Classe Masculina": [
+    {
+      "id": "88",
+      "name": "Lucca De Chico"
+    },
+    {
+      "id": "24",
+      "name": "Daniel Teixeira"
+    },
+    {
+      "id": "66",
+      "name": "Gustavo Hansel"
+    },
+    {
+      "id": "29",
+      "name": "João Pedro R. Pardo"
+    },
+    {
+      "id": "34",
+      "name": "Arthur Pellizzaro"
+    },
+    {
+      "id": "37",
+      "name": "Caetano Freitas"
+    },
+    {
+      "id": "54",
+      "name": "Davi Miranda"
+    },
+    {
+      "id": "31",
+      "name": "Fernando Volkman"
+    },
+    {
+      "id": "53",
+      "name": "João Marcello"
+    },
+    {
+      "id": "91",
+      "name": "Miguel Luiz Rodrigues"
+    },
+    {
+      "id": "89",
+      "name": "Robson De Barros Jr"
+    }
+  ],
+  "3ª Classe Masculina": [
+    {
+      "id": "62",
+      "name": "Fabio Rodriguez Yamanaka"
+    },
+    {
+      "id": "25",
+      "name": "Bruno Sanchez Camargo"
+    },
+    {
+      "id": "52",
+      "name": "Alexandre Miranda"
+    },
+    {
+      "id": "85",
+      "name": "Gustavo Duarte Salhani"
+    },
+    {
+      "id": "65",
+      "name": "Alexandre Demarchi"
+    },
+    {
+      "id": "70",
+      "name": "Denis Scaggion"
+    },
+    {
+      "id": "75",
+      "name": "Erwan Georges Menais"
+    },
+    {
+      "id": "47",
+      "name": "Pedro Perissé"
+    },
+    {
+      "id": "33",
+      "name": "Marco Mildemberg"
+    },
+    {
+      "id": "61",
+      "name": "Rone Henrique"
+    }
+  ],
+  "4ª Classe Masculina": [
+    {
+      "id": "71",
+      "name": "Rodrigo Fontes"
+    },
+    {
+      "id": "63",
+      "name": "Gustavo Tricta Augusto Sica"
+    },
+    {
+      "id": "64",
+      "name": "Gabriel Farias Josy Nogueira"
+    },
+    {
+      "id": "87",
+      "name": "Rogerio De Chico"
+    },
+    {
+      "id": "26",
+      "name": "Gabriel Coleto"
+    },
+    {
+      "id": "81",
+      "name": "Mathias Baraldi Capouillez"
+    },
+    {
+      "id": "73",
+      "name": "Robinson Diaz Jerez"
+    },
+    {
+      "id": "86",
+      "name": "Victor Basile"
+    },
+    {
+      "id": "60",
+      "name": "Daniel Dallanese"
+    },
+    {
+      "id": "39",
+      "name": "Paulo Faria"
+    }
+  ],
+  "5ª Classe Masculina": [
+    {
+      "id": "28",
+      "name": "Ricardo Pardo"
+    },
+    {
+      "id": "77",
+      "name": "André Banchi Alves"
+    },
+    {
+      "id": "44",
+      "name": "Lucas Bittencourt"
+    },
+    {
+      "id": "43",
+      "name": "Vicente Fernández"
+    },
+    {
+      "id": "55",
+      "name": "Diogo Veloso"
+    },
+    {
+      "id": "45",
+      "name": "Francieli Bittencourt"
+    },
+    {
+      "id": "80",
+      "name": "Leandro Medeiros"
+    },
+    {
+      "id": "36",
+      "name": "Mauro Fantini Nogueira Martins"
+    },
+    {
+      "id": "67",
+      "name": "Caio Migliano Santalucia"
+    },
+    {
+      "id": "83",
+      "name": "Gustavo Bazani Fernandes"
+    },
+    {
+      "id": "27",
+      "name": "Vinicius Elias Cestari Raposo"
+    }
+  ],
+  "6ª Classe Masculina": [
+    {
+      "id": "42",
+      "name": "Marcelo Izzo"
+    },
+    {
+      "id": "23",
+      "name": "Daniel Alvadia"
+    },
+    {
+      "id": "51",
+      "name": "Benny Goldenberg"
+    },
+    {
+      "id": "79",
+      "name": "Marcio Savasini"
+    },
+    {
+      "id": "32",
+      "name": "Alexandre Campos"
+    },
+    {
+      "id": "74",
+      "name": "Diego Fernandes"
+    },
+    {
+      "id": "49",
+      "name": "Mario Colonna"
+    },
+    {
+      "id": "69",
+      "name": "Rodrigo Cañedo"
+    },
+    {
+      "id": "40",
+      "name": "Arthur Yuzo Yamamoto"
+    },
+    {
+      "id": "41",
+      "name": "Daniel Alves Mascarenhas"
+    },
+    {
+      "id": "50",
+      "name": "David Vieira Rodrigues"
+    },
+    {
+      "id": "68",
+      "name": "Emerson Mendes"
+    },
+    {
+      "id": "78",
+      "name": "Fabrizio Nencioni Rodrigues"
+    }
+  ],
+  "Master 45": [],
+  "Master 55": [
+    {
+      "id": "38",
+      "name": "Damião Ribeiro"
+    },
+    {
+      "id": "57",
+      "name": "Graciano Rossi"
+    },
+    {
+      "id": "82",
+      "name": "Jurandir Maia De Oliveira"
+    },
+    {
+      "id": "48",
+      "name": "Sylvio Gonçalves Filho"
+    }
+  ],
+  "1ª Classe Feminina": [
+    {
+      "id": "9",
+      "name": "Bruna Hakim"
+    },
+    {
+      "id": "15",
+      "name": "Luiza Niemeyer Ribeiro Reis Zamorano"
+    },
+    {
+      "id": "14",
+      "name": "Giovanna Paola Ambrozi"
+    },
+    {
+      "id": "5",
+      "name": "Sara Guerra Barboza"
+    },
+    {
+      "id": "16",
+      "name": "Paula Gracia Koppe Colleoni"
+    }
+  ],
+  "3ª Classe Feminino": [
+    {
+      "id": "21",
+      "name": "Alice Saulo De Freitas"
+    },
+    {
+      "id": "18",
+      "name": "Duda Lopes"
+    },
+    {
+      "id": "17",
+      "name": "Linamara Ferrigno"
+    },
+    {
+      "id": "20",
+      "name": "Rose Silva"
+    }
+  ],
+  "4ª Classe Feminino": [
+    {
+      "id": "13",
+      "name": "Bárbara Chico"
+    },
+    {
+      "id": "115",
+      "name": "Mônica Silveira Lapa"
+    },
+    {
+      "id": "98",
+      "name": "Player To Be Defined"
+    },
+    {
+      "id": "12",
+      "name": "Sandra Arcangeli"
+    }
+  ],
+  "5ª Classe Feminino": [
+    {
+      "id": "1",
+      "name": "Giulia Nicoletti"
+    },
+    {
+      "id": "6",
+      "name": "Michelle N Y Cañedo"
+    },
+    {
+      "id": "3",
+      "name": "Rebeca Da Silva"
+    },
+    {
+      "id": "22",
+      "name": "Rosanna Shimabukuro Giuzio"
+    }
+  ],
+  "6ª Classe Feminino": [
+    {
+      "id": "4",
+      "name": "Patricia V. Ribeiro"
+    },
+    {
+      "id": "10",
+      "name": "Leudayane Silva"
+    },
+    {
+      "id": "7",
+      "name": "Adriana Brandão Da Silva"
+    },
+    {
+      "id": "19",
+      "name": "Carol Lopes"
+    },
+    {
+      "id": "114",
+      "name": "Giulia Gimenez"
+    },
+    {
+      "id": "2",
+      "name": "Ingrid Oliveira"
+    },
+    {
+      "id": "11",
+      "name": "Isabela Minguez"
+    },
+    {
+      "id": "8",
+      "name": "Maila Beatriz Goellner"
+    }
+  ],
+  "PSA Challenger Feminino": [
+    {
+      "id": "92",
+      "name": "Luiza Carbonieri"
+    },
+    {
+      "id": "95",
+      "name": "Giulia Colleoni"
+    },
+    {
+      "id": "14",
+      "name": "Giovanna Paola Ambrozi"
+    },
+    {
+      "id": "93",
+      "name": "Juliana Pereira"
+    },
+    {
+      "id": "9",
+      "name": "Bruna Hakim"
+    },
+    {
+      "id": "16",
+      "name": "Paula Gracia Koppe Colleoni"
+    },
+    {
+      "id": "97",
+      "name": "Raphaella Oliveira"
+    }
+  ],
+  "PSA Challenger Masculino": [
+    {
+      "id": "108",
+      "name": "Alejandro Martinez"
+    },
+    {
+      "id": "113",
+      "name": "Bruno Nicoletti"
+    },
+    {
+      "id": "112",
+      "name": "Caio Magnani"
+    },
+    {
+      "id": "99",
+      "name": "Guilherme Melo"
+    },
+    {
+      "id": "110",
+      "name": "Gustavo Pizatto"
+    },
+    {
+      "id": "105",
+      "name": "Isaias Silva"
+    },
+    {
+      "id": "59",
+      "name": "João Estrela"
+    },
+    {
+      "id": "111",
+      "name": "João Santos"
+    },
+    {
+      "id": "102",
+      "name": "Jose Santamaria"
+    },
+    {
+      "id": "109",
+      "name": "Lucas Perez"
+    },
+    {
+      "id": "104",
+      "name": "Matheus Carbonieri"
+    },
+    {
+      "id": "101",
+      "name": "Murilo Penteado"
+    },
+    {
+      "id": "100",
+      "name": "Pedro Mometto"
+    },
+    {
+      "id": "106",
+      "name": "Rhuan Souza"
+    },
+    {
+      "id": "107",
+      "name": "Sebastian Rayo"
+    },
+    {
+      "id": "103",
+      "name": "Vinicius Berbel"
+    }
+  ],
+  "Duplas": [
+    {
+      "id": "76",
+      "name": "Walter Karl"
+    },
+    {
+      "id": "24",
+      "name": "Daniel Teixeira"
+    },
+    {
+      "id": "92",
+      "name": "Luiza Carbonieri"
+    },
+    {
+      "id": "9",
+      "name": "Bruna Hakim"
+    },
+    {
+      "id": "59",
+      "name": "João Estrela"
+    },
+    {
+      "id": "17",
+      "name": "Linamara Ferrigno"
+    },
+    {
+      "id": "29",
+      "name": "João Pedro R. Pardo"
+    },
+    {
+      "id": "84",
+      "name": "Allisson Andrade"
+    },
+    {
+      "id": "89",
+      "name": "Robson De Barros Jr"
+    },
+    {
+      "id": "90",
+      "name": "Marcelo Ferri"
+    },
+    {
+      "id": "87",
+      "name": "Rogerio De Chico"
+    },
+    {
+      "id": "81",
+      "name": "Mathias Baraldi Capouillez"
+    },
+    {
+      "id": "58",
+      "name": "Vitor Penteado"
+    },
+    {
+      "id": "88",
+      "name": "Lucca De Chico"
+    }
+  ],
+  "config": {
+    "__SportNr__": 1,
+    "__SportName__": "squash",
+    "__TS_GUID__": "FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__generated__": "2025-10-28T11:00:49.905Z",
+    "__NumberOfHttpGets__": 17,
+    "__GenerateBy__": "nodejs-v22.18.0 tournamentsoftwarefeed-1.0.7",
+    "__nrOfMatches__": -1,
+    "__nrOfMatchesWithResult__": -1,
+    "hideCompletedMatchesFromFeed": false,
+    "numberOfPointsToWinGame": 11,
+    "numberOfGamesToWinMatch": 3,
+    "timerPauseBetweenGames": 120,
+    "name": "RGSA Open 2025 - FPS Tour Platinum",
+    "__nrOfEvents__": 16,
+    "__nrOfPlayers__": 129,
+    "__countries__": {}
   }
-]
+}

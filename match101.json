@@ -1,72 +1,1026 @@
 {
-  "ERE Dames": [
-        {
+  "1ª Classe Masculina": [
+    {
       "A": {
-        "club": "bsp club",
-        "teamid": "61"
+        "name": "Marcelo Ferri"
       },
       "B": {
-        "club": "poona club",
-        "teamid": "64"
+        "name": "João Estrela [2]"
       },
-      "date": "Fri 10/09/2021",
-      "time": "20:30",
-      "result": "3-0"
+      "date": "Wed 29/10/2025",
+      "time": "18:30"
+    },
+    {
+      "A": {
+        "name": "Murilo Guimarães [3/4]"
+      },
+      "B": {
+        "name": "Vitor Penteado"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "19:00"
+    },
+    {
+      "A": {
+        "name": "Murilo Fernandes"
+      },
+      "B": {
+        "name": "Allisson Andrade [3/4]"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "19:00"
+    },
+    {
+      "A": {
+        "name": "Lincoln Alves De Jesus [1]"
+      },
+      "B": {
+        "name": "Antonio Willian Rodrigues Lima"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "21:30"
     }
   ],
-  "team_players": {
-    "22": [
-      {
-        "id": "169",
-        "name": "vishakha, sahil"
+  "2ª Classe Masculina": [
+    {
+      "A": {
+        "name": "Arthur Pellizzaro"
       },
-      {
-        "id": "170",
-        "name": "krushnal, aditya"
+      "B": {
+        "name": "Davi Miranda"
       },
-      {
-        "id": "157",
-        "name": "Van Cauter, Annemie"
-      }
-    ],
-    "23": [
-      {
-        "id": "173",
-        "name": "sahil, krushnal"
+      "date": "Thu 30/10/2025",
+      "time": "20:00"
+    },
+    {
+      "A": {
+        "name": "Caetano Freitas"
       },
-      {
-        "id": "174",
-        "name": "aditya, sahil"
+      "B": {
+        "name": "Robson De Barros Jr"
       },
-      {
-        "id": "155",
-        "name": "Van Welden, Jorien"
+      "date": "Fri 31/10/2025",
+      "time": "18:30"
+    },
+    {
+      "A": {
+        "name": "João Pedro R. Pardo [3/4]"
       },
-      {
-        "id": "159",
-        "name": "Van Den Steen, Sara"
-      }
-    ]
-  },
+      "B": {
+        "name": "Fernando Volkman"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "19:00"
+    },
+    {
+      "A": {
+        "name": "João Marcello"
+      },
+      "B": {
+        "name": "Miguel Luiz Rodrigues"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "19:30"
+    }
+  ],
+  "3ª Classe Masculina": [
+    {
+      "A": {
+        "name": "Marco Mildemberg"
+      },
+      "B": {
+        "name": "Erwan Georges Menais [5/8]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "19:30"
+    },
+    {
+      "A": {
+        "name": "Rone Henrique"
+      },
+      "B": {
+        "name": "Denis Scaggion [5/8]"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "19:30"
+    },
+    {
+      "A": {
+        "name": "Pedro Perissé [5/8]"
+      },
+      "B": {
+        "name": "Bruno Sanchez Camargo [2]"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "Alexandre Demarchi [5/8]"
+      },
+      "B": {
+        "name": "Alexandre Miranda [3/4]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "11:30"
+    }
+  ],
+  "4ª Classe Masculina": [
+    {
+      "A": {
+        "name": "Gabriel Coleto [5/8]"
+      },
+      "B": {
+        "name": "Rogerio De Chico [3/4]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "18:00"
+    },
+    {
+      "A": {
+        "name": "Daniel Dallanese"
+      },
+      "B": {
+        "name": "Robinson Diaz Jerez [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "19:00"
+    },
+    {
+      "A": {
+        "name": "Paulo Faria"
+      },
+      "B": {
+        "name": "Victor Basile [5/8]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "21:00"
+    },
+    {
+      "A": {
+        "name": "Mathias Baraldi Capouillez [5/8]"
+      },
+      "B": {
+        "name": "Gustavo Tricta Augusto Sica [2]"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "18:00"
+    }
+  ],
+  "5ª Classe Masculina": [],
+  "5ª Classe Masculina - Group A": [
+    {
+      "A": {
+        "name": "Mauro Fantini Nogueira Martins [5/8]"
+      },
+      "B": {
+        "name": "Francieli Bittencourt [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "20:00"
+    },
+    {
+      "A": {
+        "name": "Ricardo Pardo [1]"
+      },
+      "B": {
+        "name": "Francieli Bittencourt [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "10:30"
+    },
+    {
+      "A": {
+        "name": "Ricardo Pardo [1]"
+      },
+      "B": {
+        "name": "Mauro Fantini Nogueira Martins [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "17:30"
+    }
+  ],
+  "5ª Classe Masculina - Group B": [
+    {
+      "A": {
+        "name": "Diogo Veloso [5/8]"
+      },
+      "B": {
+        "name": "Gustavo Bazani Fernandes"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "André Banchi Alves [2]"
+      },
+      "B": {
+        "name": "Diogo Veloso [5/8]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "21:00"
+    },
+    {
+      "A": {
+        "name": "André Banchi Alves [2]"
+      },
+      "B": {
+        "name": "Gustavo Bazani Fernandes"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "18:00"
+    },
+    {
+      "A": {
+        "name": "Diogo Veloso [5/8]"
+      },
+      "B": {
+        "name": "Leandro Medeiros [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:30"
+    },
+    {
+      "A": {
+        "name": "André Banchi Alves [2]"
+      },
+      "B": {
+        "name": "Leandro Medeiros [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "15:30"
+    },
+    {
+      "A": {
+        "name": "Leandro Medeiros [5/8]"
+      },
+      "B": {
+        "name": "Gustavo Bazani Fernandes"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "19:00"
+    }
+  ],
+  "5ª Classe Masculina - Group C": [
+    {
+      "A": {
+        "name": "Caio Migliano Santalucia"
+      },
+      "B": {
+        "name": "Vinicius Elias Cestari Raposo"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "18:00"
+    },
+    {
+      "A": {
+        "name": "Lucas Bittencourt [3/4]"
+      },
+      "B": {
+        "name": "Vicente Fernández [3/4]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "Vicente Fernández [3/4]"
+      },
+      "B": {
+        "name": "Vinicius Elias Cestari Raposo"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "21:30"
+    },
+    {
+      "A": {
+        "name": "Lucas Bittencourt [3/4]"
+      },
+      "B": {
+        "name": "Caio Migliano Santalucia"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:30"
+    },
+    {
+      "A": {
+        "name": "Lucas Bittencourt [3/4]"
+      },
+      "B": {
+        "name": "Vinicius Elias Cestari Raposo"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "15:00"
+    },
+    {
+      "A": {
+        "name": "Vicente Fernández [3/4]"
+      },
+      "B": {
+        "name": "Caio Migliano Santalucia"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "15:30"
+    }
+  ],
+  "6ª Classe Masculina": [],
+  "6ª Classe Masculina - Group A": [
+    {
+      "A": {
+        "name": "Marcelo Izzo [1]"
+      },
+      "B": {
+        "name": "Emerson Mendes"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "19:00"
+    },
+    {
+      "A": {
+        "name": "Marcelo Izzo [1]"
+      },
+      "B": {
+        "name": "Mario Colonna [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "10:00"
+    },
+    {
+      "A": {
+        "name": "Mario Colonna [5/8]"
+      },
+      "B": {
+        "name": "Emerson Mendes"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "16:00"
+    }
+  ],
+  "6ª Classe Masculina - Group B": [
+    {
+      "A": {
+        "name": "Diego Fernandes [5/8]"
+      },
+      "B": {
+        "name": "Arthur Yuzo Yamamoto"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "21:00"
+    },
+    {
+      "A": {
+        "name": "Daniel Alvadia [2]"
+      },
+      "B": {
+        "name": "Diego Fernandes [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "11:00"
+    },
+    {
+      "A": {
+        "name": "Daniel Alvadia [2]"
+      },
+      "B": {
+        "name": "Arthur Yuzo Yamamoto"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "16:30"
+    }
+  ],
+  "6ª Classe Masculina - Group C": [
+    {
+      "A": {
+        "name": "Rodrigo Cañedo [5/8]"
+      },
+      "B": {
+        "name": "Daniel Alves Mascarenhas"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "18:30"
+    },
+    {
+      "A": {
+        "name": "Marcio Savasini [3/4]"
+      },
+      "B": {
+        "name": "Rodrigo Cañedo [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "13:00"
+    },
+    {
+      "A": {
+        "name": "Marcio Savasini [3/4]"
+      },
+      "B": {
+        "name": "Daniel Alves Mascarenhas"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "17:30"
+    }
+  ],
+  "6ª Classe Masculina - Group D": [
+    {
+      "A": {
+        "name": "Alexandre Campos [5/8]"
+      },
+      "B": {
+        "name": "Fabrizio Nencioni Rodrigues"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "19:30"
+    },
+    {
+      "A": {
+        "name": "Benny Goldenberg [3/4]"
+      },
+      "B": {
+        "name": "David Vieira Rodrigues"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "21:30"
+    },
+    {
+      "A": {
+        "name": "Benny Goldenberg [3/4]"
+      },
+      "B": {
+        "name": "Alexandre Campos [5/8]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "12:30"
+    },
+    {
+      "A": {
+        "name": "Fabrizio Nencioni Rodrigues"
+      },
+      "B": {
+        "name": "David Vieira Rodrigues"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "13:30"
+    },
+    {
+      "A": {
+        "name": "Benny Goldenberg [3/4]"
+      },
+      "B": {
+        "name": "Fabrizio Nencioni Rodrigues"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "17:00"
+    },
+    {
+      "A": {
+        "name": "Alexandre Campos [5/8]"
+      },
+      "B": {
+        "name": "David Vieira Rodrigues"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "17:30"
+    }
+  ],
+  "Master 55": [
+    {
+      "A": {
+        "name": "Graciano Rossi"
+      },
+      "B": {
+        "name": "Jurandir Maia De Oliveira"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:00"
+    },
+    {
+      "A": {
+        "name": "Damião Ribeiro"
+      },
+      "B": {
+        "name": "Sylvio Gonçalves Filho"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "10:30"
+    },
+    {
+      "A": {
+        "name": "Jurandir Maia De Oliveira"
+      },
+      "B": {
+        "name": "Sylvio Gonçalves Filho"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "14:30"
+    },
+    {
+      "A": {
+        "name": "Graciano Rossi"
+      },
+      "B": {
+        "name": "Damião Ribeiro"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "15:00"
+    },
+    {
+      "A": {
+        "name": "Jurandir Maia De Oliveira"
+      },
+      "B": {
+        "name": "Damião Ribeiro"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "10:30"
+    },
+    {
+      "A": {
+        "name": "Graciano Rossi"
+      },
+      "B": {
+        "name": "Sylvio Gonçalves Filho"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "10:30"
+    }
+  ],
+  "1ª Classe Feminina": [
+    {
+      "A": {
+        "name": "Paula Gracia Koppe Colleoni"
+      },
+      "B": {
+        "name": "Sara Guerra Barboza [3/4]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "10:00"
+    },
+    {
+      "A": {
+        "name": "Giovanna Paola Ambrozi [3/4]"
+      },
+      "B": {
+        "name": "Luiza Niemeyer Ribeiro Reis Zamorano [2]"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "14:30"
+    }
+  ],
+  "3ª Classe Feminino": [
+    {
+      "A": {
+        "name": "Rose Silva"
+      },
+      "B": {
+        "name": "Linamara Ferrigno"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "12:00"
+    },
+    {
+      "A": {
+        "name": "Alice Saulo De Freitas"
+      },
+      "B": {
+        "name": "Duda Lopes"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "15:00"
+    },
+    {
+      "A": {
+        "name": "Alice Saulo De Freitas"
+      },
+      "B": {
+        "name": "Linamara Ferrigno"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "10:00"
+    },
+    {
+      "A": {
+        "name": "Rose Silva"
+      },
+      "B": {
+        "name": "Duda Lopes"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "10:00"
+    },
+    {
+      "A": {
+        "name": "Alice Saulo De Freitas"
+      },
+      "B": {
+        "name": "Rose Silva"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "13:00"
+    },
+    {
+      "A": {
+        "name": "Linamara Ferrigno"
+      },
+      "B": {
+        "name": "Duda Lopes"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "13:00"
+    }
+  ],
+  "4ª Classe Feminino": [
+    {
+      "A": {
+        "name": "Sandra Arcangeli"
+      },
+      "B": {
+        "name": "Mônica Silveira Lapa"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "11:30"
+    },
+    {
+      "A": {
+        "name": "Bárbara Chico"
+      },
+      "B": {
+        "name": "Mônica Silveira Lapa"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "09:00"
+    },
+    {
+      "A": {
+        "name": "Sandra Arcangeli"
+      },
+      "B": {
+        "name": "Bárbara Chico"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "12:30"
+    }
+  ],
+  "5ª Classe Feminino": [
+    {
+      "A": {
+        "name": "Michelle N Y Cañedo"
+      },
+      "B": {
+        "name": "Giulia Nicoletti"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "19:30"
+    },
+    {
+      "A": {
+        "name": "Michelle N Y Cañedo"
+      },
+      "B": {
+        "name": "Rebeca Da Silva"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:30"
+    },
+    {
+      "A": {
+        "name": "Rosanna Shimabukuro Giuzio"
+      },
+      "B": {
+        "name": "Rebeca Da Silva"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "13:00"
+    },
+    {
+      "A": {
+        "name": "Rosanna Shimabukuro Giuzio"
+      },
+      "B": {
+        "name": "Giulia Nicoletti"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "16:00"
+    },
+    {
+      "A": {
+        "name": "Rebeca Da Silva"
+      },
+      "B": {
+        "name": "Giulia Nicoletti"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "13:30"
+    },
+    {
+      "A": {
+        "name": "Michelle N Y Cañedo"
+      },
+      "B": {
+        "name": "Rosanna Shimabukuro Giuzio"
+      },
+      "date": "Sun 02/11/2025",
+      "time": "14:00"
+    }
+  ],
+  "6ª Classe Feminino": [],
+  "6ª Classe Feminino - Group A": [
+    {
+      "A": {
+        "name": "Carol Lopes"
+      },
+      "B": {
+        "name": "Giulia Gimenez"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "20:00"
+    },
+    {
+      "A": {
+        "name": "Patricia V. Ribeiro [1]"
+      },
+      "B": {
+        "name": "Giulia Gimenez"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "21:00"
+    },
+    {
+      "A": {
+        "name": "Patricia V. Ribeiro [1]"
+      },
+      "B": {
+        "name": "Carol Lopes"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "10:30"
+    },
+    {
+      "A": {
+        "name": "Maila Beatriz Goellner"
+      },
+      "B": {
+        "name": "Giulia Gimenez"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "11:00"
+    },
+    {
+      "A": {
+        "name": "Patricia V. Ribeiro [1]"
+      },
+      "B": {
+        "name": "Maila Beatriz Goellner"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "14:30"
+    },
+    {
+      "A": {
+        "name": "Carol Lopes"
+      },
+      "B": {
+        "name": "Maila Beatriz Goellner"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "16:30"
+    }
+  ],
+  "6ª Classe Feminino - Group B": [
+    {
+      "A": {
+        "name": "Adriana Brandão Da Silva"
+      },
+      "B": {
+        "name": "Ingrid Oliveira"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "Leudayane Silva [2]"
+      },
+      "B": {
+        "name": "Isabela Minguez"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "Leudayane Silva [2]"
+      },
+      "B": {
+        "name": "Adriana Brandão Da Silva"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:00"
+    },
+    {
+      "A": {
+        "name": "Ingrid Oliveira"
+      },
+      "B": {
+        "name": "Isabela Minguez"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "09:00"
+    },
+    {
+      "A": {
+        "name": "Leudayane Silva [2]"
+      },
+      "B": {
+        "name": "Ingrid Oliveira"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "12:00"
+    },
+    {
+      "A": {
+        "name": "Adriana Brandão Da Silva"
+      },
+      "B": {
+        "name": "Isabela Minguez"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "12:30"
+    }
+  ],
+  "PSA Challenger Feminino": [
+    {
+      "A": {
+        "name": "Bruna Hakim"
+      },
+      "B": {
+        "name": "Giulia Colleoni [2]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "18:00"
+    },
+    {
+      "A": {
+        "name": "Juliana Pereira [3/4]"
+      },
+      "B": {
+        "name": "Paula Gracia Koppe Colleoni"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "18:30"
+    },
+    {
+      "A": {
+        "name": "Raphaella Oliveira"
+      },
+      "B": {
+        "name": "Giovanna Paola Ambrozi [3/4]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "19:00"
+    }
+  ],
+  "PSA Challenger Masculino": [
+    {
+      "A": {
+        "name": "João Santos"
+      },
+      "B": {
+        "name": "Alejandro Martinez"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "15:00"
+    },
+    {
+      "A": {
+        "name": "Vinicius Berbel"
+      },
+      "B": {
+        "name": "Isaias Silva"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "15:45"
+    },
+    {
+      "A": {
+        "name": "Matheus Carbonieri"
+      },
+      "B": {
+        "name": "Sebastian Rayo"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "16:30"
+    },
+    {
+      "A": {
+        "name": "Lucas Perez"
+      },
+      "B": {
+        "name": "Gustavo Pizatto"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "17:15"
+    },
+    {
+      "A": {
+        "name": "Guilherme Melo"
+      },
+      "B": {
+        "name": "Caio Magnani"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "18:00"
+    },
+    {
+      "A": {
+        "name": "Rhuan Souza"
+      },
+      "B": {
+        "name": "Jose Santamaria"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "18:45"
+    },
+    {
+      "A": {
+        "name": "Murilo Penteado"
+      },
+      "B": {
+        "name": "Bruno Nicoletti"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "19:30"
+    },
+    {
+      "A": {
+        "name": "João Estrela"
+      },
+      "B": {
+        "name": "Pedro Mometto"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "20:15"
+    }
+  ],
+  "Duplas": [
+    {
+      "A": {
+        "name": "João Estrela/Linamara Ferrigno"
+      },
+      "B": {
+        "name": "Robson De Barros Jr/Marcelo Ferri"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "21:00"
+    },
+    {
+      "A": {
+        "name": "Vitor Penteado/Lucca De Chico"
+      },
+      "B": {
+        "name": "Luiza Carbonieri/Bruna Hakim"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "21:30"
+    },
+    {
+      "A": {
+        "name": "Rogerio De Chico/Mathias Baraldi Capouillez"
+      },
+      "B": {
+        "name": "João Pedro R. Pardo/Allisson Andrade"
+      },
+      "date": "Fri 31/10/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "name": "Walter Karl [1]"
+      },
+      "B": {
+        "name": "Daniel Teixeira"
+      },
+      "date": "Sat 01/11/2025",
+      "time": "12:30"
+    }
+  ],
   "config": {
     "__SportNr__": 1,
     "__SportName__": "squash",
-    "__TS_GUID__": "52C1B445-B466-417A-A4D8-6DEEB38B8E36",
-    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
-    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
-    "__generated__": "2025-10-28T11:35:35.601Z",
-    "__NumberOfHttpGets__": 10,
+    "__TS_GUID__": "FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=FBAB1964-4334-44C3-B012-BAA6C18CB3D8",
+    "__generated__": "2025-10-28T11:49:18.643Z",
+    "__NumberOfHttpGets__": 25,
     "__GenerateBy__": "nodejs-v22.18.0 tournamentsoftwarefeed-1.0.7",
-    "__nrOfMatches__": 30,
-    "__nrOfMatchesWithResult__": 30,
-    "hideCompletedMatchesFromFeed": false,
+    "__nrOfMatches__": 96,
+    "__nrOfMatchesWithResult__": 0,
+    "hideCompletedMatchesFromFeed": true,
     "numberOfPointsToWinGame": 11,
     "numberOfGamesToWinMatch": 3,
     "timerPauseBetweenGames": 120,
-    "groupMatchesInFeedByCourt": false,
-    "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
-    "name": "vishakha",
-    "Placeholder_Match": "${date} : ${FirstOfList:~${A}~${A.club}~${A.name}~} - ${FirstOfList:~${B}~${B.club}~${B.name}~} ${result}",
-    "Placeholder_TeamPlayer": "${seqNo}. ${name}"
+    "name": "RGSA Open 2025 - FPS Tour Platinum",
+    "Placeholder_Match": "${date} ${time} : ${FirstOfList:~${A}~${A.name}~} - ${FirstOfList:~${B}~${B.name}~} ${result}",
+    "__nrOfDraws__": 24
   }
 }
