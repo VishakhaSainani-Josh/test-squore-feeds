@@ -1,20 +1,23 @@
 [
-{ "Section" : "SQV Beker 2019-2020",
-"Name" : "Poule A",
-"FeedMatches": "tournamentsoftware\/7EA423D3-0DCC-42E0-B5B1-00D53214DE6C\/league\/draw-1",
-"ValidFrom" : "20190917",
-"ValidTo" : "20200422"
-},
-{ "Section" : "SQV competitie 2019-2020",
-"Name" : "1A Dames",
-"FeedMatches": "tournamentsoftware\/52C1B445-B466-417A-A4D8-6DEEB38B8E36\/league\/draw-4",
-"ValidFrom" : "20190905",
-"ValidTo" : "20200530"
-},
-{ "Section" : "SQV competitie-test by vishakha 2019-2020",
-"Name" : "1A Heren",
-"FeedMatches": "tournamentsoftware\/52C1B445-B466-417A-A4D8-6DEEB38B8E36\/league\/draw-5",
-"ValidFrom" : "20190905",
-"ValidTo" : "20200530"
-}
+  {
+    "Section": "Indian Squash test feed",
+    "Name": "Feed 1",
+    "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
+    "ValidFrom": "20251001",
+    "ValidTo": "20270101"
+  },
+  {
+    "Section": "Indian Squash test feed",
+    "Name": "Feed 2",
+    "FeedMatches": "test-squore-feeds.vercel.app/match101.json",
+    "ValidFrom": "20251001",
+    "ValidTo": "20270101"
+  },
+  {
+    "Section": "Indian Squash test feed",
+    "Name": "Feed 3",
+    "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
+    "ValidFrom": "20251001",
+    "ValidTo": "20270101"
+  }
 ]

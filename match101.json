@@ -1,20 +1,268 @@
-[
-{ "Section" : "SQV Beker 2019-2020",
-"Name" : "Poule A",
-"FeedMatches": "tournamentsoftware\/7EA423D3-0DCC-42E0-B5B1-00D53214DE6C\/league\/draw-1",
-"ValidFrom" : "20190917",
-"ValidTo" : "20200422"
-},
-{ "Section" : "SQV competitie 2019-2020",
-"Name" : "1A Dames",
-"FeedMatches": "tournamentsoftware\/52C1B445-B466-417A-A4D8-6DEEB38B8E36\/league\/draw-4",
-"ValidFrom" : "20190905",
-"ValidTo" : "20200530"
-},
-{ "Section" : "SQV competitie-test by vishakha 2019-2020",
-"Name" : "1A Heren",
-"FeedMatches": "tournamentsoftware\/52C1B445-B466-417A-A4D8-6DEEB38B8E36\/league\/draw-5",
-"ValidFrom" : "20190905",
-"ValidTo" : "20200530"
+{
+  "BU11": [
+    {
+      "A": {
+        "name": "Aryan Sk [1]"
+      },
+      "B": {
+        "name": "Shaurya Bakshi"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "10:30",
+      "result": "11-4, 11-6, 11-9",
+      "court": "ISTA - C3",
+      "id": "2145"
+    },
+    {
+      "A": {
+        "name": "Viraaj Wadhwani [5/8]"
+      },
+      "B": {
+        "name": "Krishna Gupta"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "10:30",
+      "result": "13-11, 11-6, 3-11, 2-11, 11-9",
+      "court": "ISTA - C4",
+      "id": "2146"
+    },
+    {
+      "A": {
+        "name": "Agastya Uppal [3/4]"
+      },
+      "B": {
+        "name": "Rudransh Prabhakar"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "11:00",
+      "result": "11-5, 8-11, 11-7, 11-4",
+      "court": "ISTA - C1",
+      "id": "2148"
+    },
+    {
+      "A": {
+        "name": "Ayaan Kaushik [3/4]"
+      },
+      "B": {
+        "name": "Vansh Rathi"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "11:00",
+      "result": "8-11, 9-11, 11-9, 11-3, 11-7",
+      "court": "ISTA - C2",
+      "id": "2149"
+    },
+    {
+      "A": {
+        "name": "Avyyanveer Luthra [5/8]"
+      },
+      "B": {
+        "name": "Harshveer Pahwa"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "11:00",
+      "result": "11-6, 11-1, 11-7",
+      "court": "ISTA - C3",
+      "id": "2150"
+    },
+    {
+      "A": {
+        "name": "Vedant Shinde [5/8]"
+      },
+      "B": {
+        "name": "Shaunik Malhotra"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "11:00",
+      "result": "11-2, 11-5, 11-5",
+      "court": "ISTA - C4",
+      "id": "2151"
+    },
+    {
+      "A": {
+        "name": "Viraj Shinde"
+      },
+      "B": {
+        "name": "Yuvaan Verma [5/8]"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "13:00",
+      "result": "11-7, 11-5, 11-5",
+      "court": "ISTA - C2",
+      "id": "2147"
+    },
+    {
+      "A": {
+        "name": "Ved Sanganaria [2]"
+      },
+      "B": {
+        "name": "Kandha Swamy"
+      },
+      "date": "Tue 28/10/2025",
+      "time": "14:30",
+      "result": "11-7, 11-7, 11-5",
+      "court": "ISTA - C3",
+      "id": "2152"
+    },
+    {
+      "A": {
+        "name": "Agastya Uppal [3/4]"
+      },
+      "B": {
+        "name": "Viraj Shinde"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "10:35",
+      "result": "13-11, 11-3, 11-8",
+      "court": "ISTA - C2",
+      "id": "2130"
+    },
+    {
+      "A": {
+        "name": "Ayaan Kaushik [3/4]"
+      },
+      "B": {
+        "name": "Avyyanveer Luthra [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "10:35",
+      "result": "11-5, 11-6, 12-10",
+      "court": "ISTA - C1",
+      "id": "2131"
+    },
+    {
+      "A": {
+        "name": "Krishna Gupta"
+      },
+      "B": {
+        "name": "Shaurya Bakshi"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "11:00",
+      "result": "9-11, 11-7, 5-11, 11-4, 11-5",
+      "court": "ISTA - C3",
+      "id": "2137"
+    },
+    {
+      "A": {
+        "name": "Rudransh Prabhakar"
+      },
+      "B": {
+        "name": "Yuvaan Verma [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "11:00",
+      "result": "11-8, 8-11, 11-9, 9-11, 11-8",
+      "court": "ISTA - C4",
+      "id": "2138"
+    },
+    {
+      "A": {
+        "name": "Ved Sanganaria [2]"
+      },
+      "B": {
+        "name": "Vedant Shinde [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "11:10",
+      "result": "7-11, 11-2, 9-11, 11-9, 11-8",
+      "court": "ISTA - C1",
+      "id": "2132"
+    },
+    {
+      "A": {
+        "name": "Vansh Rathi"
+      },
+      "B": {
+        "name": "Harshveer Pahwa"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "11:30",
+      "result": "12-14, 11-4, 11-7, 11-6",
+      "court": "ISTA - C3",
+      "id": "2139"
+    },
+    {
+      "A": {
+        "name": "Kandha Swamy"
+      },
+      "B": {
+        "name": "Shaunik Malhotra"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "11:30",
+      "result": "12-10, 11-6, 11-2",
+      "court": "ISTA - C4",
+      "id": "2140"
+    },
+    {
+      "A": {
+        "name": "Aryan Sk [1]"
+      },
+      "B": {
+        "name": "Viraaj Wadhwani [5/8]"
+      },
+      "date": "Wed 29/10/2025",
+      "time": "15:15",
+      "court": "ISTA - C1",
+      "id": "2129"
+    },
+    {
+      "A": {
+        "name": "Ayaan Kaushik [3/4]"
+      },
+      "B": {
+        "name": "Ved Sanganaria [2]"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "09:40",
+      "court": "ISTA - C2",
+      "id": "2114"
+    },
+    {
+      "A": {
+        "name": "Krishna Gupta"
+      },
+      "B": {
+        "name": "Rudransh Prabhakar"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "10:30",
+      "court": "ISTA - C3",
+      "id": "2121"
+    },
+    {
+      "A": {
+        "name": "Vansh Rathi"
+      },
+      "B": {
+        "name": "Kandha Swamy"
+      },
+      "date": "Thu 30/10/2025",
+      "time": "10:30",
+      "court": "ISTA - C4",
+      "id": "2122"
+    }
+  ],
+  "config": {
+    "__SportNr__": 1,
+    "__SportName__": "squash",
+    "__TS_GUID__": "54F94F5B-58E3-44C2-820A-53A2FEB41BD4",
+    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=54F94F5B-58E3-44C2-820A-53A2FEB41BD4",
+    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=54F94F5B-58E3-44C2-820A-53A2FEB41BD4",
+    "__generated__": "2025-10-29T06:44:56.912Z",
+    "__NumberOfHttpGets__": 21,
+    "__GenerateBy__": "nodejs-v22.18.0 tournamentsoftwarefeed-1.0.7",
+    "__nrOfMatches__": 545,
+    "__nrOfMatchesWithResult__": 428,
+    "hideCompletedMatchesFromFeed": true,
+    "numberOfPointsToWinGame": 11,
+    "numberOfGamesToWinMatch": 3,
+    "timerPauseBetweenGames": 120,
+    "name": "SRFI test league",
+    "Placeholder_Match": "${date} ${time} : ${FirstOfList:~${A}~${A.name}~} - ${FirstOfList:~${B}~${B.name}~} ${result}",
+    "__nrOfDraws__": 20,
+    "__nrOfMatchesWithCourt__": 545,
+    "__nrOfMatchesWithId__": 545
+  }
 }
-]
