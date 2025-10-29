@@ -1,0 +1,117 @@
+{
+  "Feed 1": [
+    {
+      "A": {
+        "club": "Recrean BMW Services",
+        "teamid": "61"
+      },
+      "B": {
+        "club": "Recrean Screentex",
+        "teamid": "64"
+      },
+      "date": "Fri 07/11/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "club": "De Vaart Notre Ere-Dames 1",
+        "teamid": "22"
+      },
+      "B": {
+        "club": "De Vaart Notre Ere-Dames 2",
+        "teamid": "23"
+      },
+      "date": "Fri 14/11/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "club": "Squash Club Roeselare Dames",
+        "teamid": "77"
+      },
+      "B": {
+        "club": "Oly - Queens",
+        "teamid": "47"
+      },
+      "date": "Fri 21/11/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "club": "Recrean BMW Services",
+        "teamid": "61"
+      },
+      "B": {
+        "club": "Oly - Queens",
+        "teamid": "47"
+      },
+      "date": "Fri 28/11/2025",
+      "time": "20:30"
+    },
+    {
+      "A": {
+        "club": "De Vaart Notre Ere-Dames 1",
+        "teamid": "22"
+      },
+      "B": {
+        "club": "Squash Club Roeselare Dames",
+        "teamid": "77"
+      },
+      "date": "Fri 05/12/2025",
+      "time": "20:30"
+    }
+  ],
+  "team_players": {
+    "22": [
+      { "id": "169", "name": "Brant, Nikita" },
+      { "id": "170", "name": "Gibril, Suzan" },
+      { "id": "171", "name": "Einy, Rina" }
+    ],
+    "23": [
+      { "id": "173", "name": "Callebaut, Marie-Amélie" },
+      { "id": "174", "name": "Hannes, Tine" },
+      { "id": "155", "name": "Van Welden, Jorien" }
+    ],
+    "47": [
+      { "id": "384", "name": "Jozefczak, Marijke" },
+      { "id": "385", "name": "Van Beers, Merel" },
+      { "id": "386", "name": "Dua, Thysia" }
+    ],
+    "61": [
+      { "id": "483", "name": "Delagrange, Yara" },
+      { "id": "484", "name": "Petersen, Kira" },
+      { "id": "485", "name": "Van Onderbergen, Hilde" }
+    ],
+    "64": [
+      { "id": "486", "name": "Verwilt, Toke" },
+      { "id": "487", "name": "De Bleeckere, Lieselot" },
+      { "id": "488", "name": "Naessens, Jolien" }
+    ],
+    "77": [
+      { "id": "586", "name": "Van Riet, Marie" },
+      { "id": "587", "name": "Deruyck, Laura" },
+      { "id": "588", "name": "Feys, Anouk" }
+    ]
+  },
+  "config": {
+    "__SportNr__": 1,
+    "__SportName__": "squash",
+    "__TS_GUID__": "52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=52C1B445-B466-417A-A4D8-6DEEB38B8E36",
+    "__generated__": "2025-10-29T07:46:31.286Z",
+    "__NumberOfHttpGets__": 5,
+    "__GenerateBy__": "tournamentsoftwarefeed-1.0.7",
+    "__nrOfMatches__": 5,
+    "__nrOfMatchesWithResult__": 0,
+    "hideCompletedMatchesFromFeed": false,
+    "numberOfPointsToWinGame": 11,
+    "numberOfGamesToWinMatch": 3,
+    "timerPauseBetweenGames": 120,
+    "groupMatchesInFeedByCourt": false,
+    "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
+    "name": "Indian Squash test feed - Feed 1",
+    "Placeholder_Match": "${date} : ${A.club} - ${B.club}",
+    "Placeholder_TeamPlayer": "${seqNo}. ${name}"
+  }
+}
