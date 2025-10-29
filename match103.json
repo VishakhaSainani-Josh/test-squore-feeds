@@ -5,6 +5,7 @@
         "numberOfGamesToWinMatch": 3,
         "timerPauseBetweenGames": 120,
         "skipMatchSettings": true,
+        "shareAction": "PostResult",
         "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
         "hideCompletedMatchesFromFeed": true,
         "XLiveScoreUrl": "mqtt://broker.emqx.io",

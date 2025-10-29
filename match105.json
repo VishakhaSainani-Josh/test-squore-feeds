@@ -185,6 +185,7 @@
         "name": "Torneio Interno CSC",
         "Placeholder_Match": "${date} ${time} : ${FirstOfList:${A}${A.name}} - ${FirstOfList:${B}${B.name}} ${result}",
         "__nrOfDraws__": 11,
+        "shareAction": "PostResult",
         "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js"
     }
 }

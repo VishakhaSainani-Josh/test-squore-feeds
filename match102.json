@@ -164,6 +164,7 @@
     "timerPauseBetweenGames": 120,
     "groupMatchesInFeedByCourt": false,
     "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
+    "shareAction": "PostResult",
     "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
     "name": "Indian Squash test feed - Feed 2",
     "Placeholder_Match": "${date} : ${A.club} - ${B.club}",

@@ -3,6 +3,7 @@
     "name": "Indian Squash Test Feed",
     "numberOfGamesToWinMatch": 3,
     "numberOfPointsToWinGame": 11,
+    "shareAction": "PostResult",
     "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js"
   },
   "matches": [
