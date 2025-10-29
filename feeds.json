@@ -16,7 +16,7 @@
   {
     "Section": "Indian Squash test feed",
     "Name": "Feed 3",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
+    "FeedMatches": "https://test-squore-feeds.vercel.app/test.matches.json",
     "ValidFrom": "20251001",
     "ValidTo": "20270101"
   }
