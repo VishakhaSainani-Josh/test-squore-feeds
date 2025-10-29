@@ -63,34 +63,88 @@
   ],
   "team_players": {
     "22": [
-      { "id": "169", "name": "Brant, Nikita" },
-      { "id": "170", "name": "Gibril, Suzan" },
-      { "id": "171", "name": "Einy, Rina" }
+      {
+        "id": "169",
+        "name": "Brant, Nikita"
+      },
+      {
+        "id": "170",
+        "name": "Gibril, Suzan"
+      },
+      {
+        "id": "171",
+        "name": "Einy, Rina"
+      }
     ],
     "23": [
-      { "id": "173", "name": "Callebaut, Marie-Amélie" },
-      { "id": "174", "name": "Hannes, Tine" },
-      { "id": "155", "name": "Van Welden, Jorien" }
+      {
+        "id": "173",
+        "name": "Callebaut, Marie-Amélie"
+      },
+      {
+        "id": "174",
+        "name": "Hannes, Tine"
+      },
+      {
+        "id": "155",
+        "name": "Van Welden, Jorien"
+      }
     ],
     "47": [
-      { "id": "384", "name": "Jozefczak, Marijke" },
-      { "id": "385", "name": "Van Beers, Merel" },
-      { "id": "386", "name": "Dua, Thysia" }
+      {
+        "id": "384",
+        "name": "Jozefczak, Marijke"
+      },
+      {
+        "id": "385",
+        "name": "Van Beers, Merel"
+      },
+      {
+        "id": "386",
+        "name": "Dua, Thysia"
+      }
     ],
     "61": [
-      { "id": "483", "name": "Delagrange, Yara" },
-      { "id": "484", "name": "Petersen, Kira" },
-      { "id": "485", "name": "Van Onderbergen, Hilde" }
+      {
+        "id": "483",
+        "name": "Delagrange, Yara"
+      },
+      {
+        "id": "484",
+        "name": "Petersen, Kira"
+      },
+      {
+        "id": "485",
+        "name": "Van Onderbergen, Hilde"
+      }
     ],
     "64": [
-      { "id": "486", "name": "Verwilt, Toke" },
-      { "id": "487", "name": "De Bleeckere, Lieselot" },
-      { "id": "488", "name": "Naessens, Jolien" }
+      {
+        "id": "486",
+        "name": "Verwilt, Toke"
+      },
+      {
+        "id": "487",
+        "name": "De Bleeckere, Lieselot"
+      },
+      {
+        "id": "488",
+        "name": "Naessens, Jolien"
+      }
     ],
     "77": [
-      { "id": "586", "name": "Van Riet, Marie" },
-      { "id": "587", "name": "Deruyck, Laura" },
-      { "id": "588", "name": "Feys, Anouk" }
+      {
+        "id": "586",
+        "name": "Van Riet, Marie"
+      },
+      {
+        "id": "587",
+        "name": "Deruyck, Laura"
+      },
+      {
+        "id": "588",
+        "name": "Feys, Anouk"
+      }
     ]
   },
   "config": {
@@ -110,6 +164,7 @@
     "timerPauseBetweenGames": 120,
     "groupMatchesInFeedByCourt": false,
     "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
+    "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
     "name": "Indian Squash test feed - Feed 2",
     "Placeholder_Match": "${date} : ${A.club} - ${B.club}",
     "Placeholder_TeamPlayer": "${seqNo}. ${name}"

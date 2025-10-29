@@ -1,108 +1,168 @@
 {
     "1ª Classe Masculino": [
         {
-            "A": { "name": "Bruno Crepory [1]" },
-            "B": { "name": "Heraldo Conceição" },
+            "A": {
+                "name": "Bruno Crepory [1]"
+            },
+            "B": {
+                "name": "Heraldo Conceição"
+            },
             "date": "Thu 13/11/2025",
             "time": "18:30"
         },
         {
-            "A": { "name": "João Carlos [3/4]" },
-            "B": { "name": "Bernardo Miranda [2]" },
+            "A": {
+                "name": "João Carlos [3/4]"
+            },
+            "B": {
+                "name": "Bernardo Miranda [2]"
+            },
             "date": "Sat 15/11/2025",
             "time": "11:30"
         }
     ],
     "4ª Classe Masculino": [
         {
-            "A": { "name": "Marcelo Pena" },
-            "B": { "name": "Emilio Evaristo" },
+            "A": {
+                "name": "Marcelo Pena"
+            },
+            "B": {
+                "name": "Emilio Evaristo"
+            },
             "date": "Thu 13/11/2025",
             "time": "18:30"
         },
         {
-            "A": { "name": "Clara Braga [3/4]" },
-            "B": { "name": "Tiago Evaristo" },
+            "A": {
+                "name": "Clara Braga [3/4]"
+            },
+            "B": {
+                "name": "Tiago Evaristo"
+            },
             "date": "Sat 15/11/2025",
             "time": "12:00"
         }
     ],
     "5ª Classe Masculino": [
         {
-            "A": { "name": "Beto Alvim [1]" },
-            "B": { "name": "Anderson Magno" },
+            "A": {
+                "name": "Beto Alvim [1]"
+            },
+            "B": {
+                "name": "Anderson Magno"
+            },
             "date": "Thu 13/11/2025",
             "time": "18:30"
         },
         {
-            "A": { "name": "Geovanni Falcao [2]" },
-            "B": { "name": "Pedro Hezequiel" },
+            "A": {
+                "name": "Geovanni Falcao [2]"
+            },
+            "B": {
+                "name": "Pedro Hezequiel"
+            },
             "date": "Fri 14/11/2025",
             "time": "19:00"
         }
     ],
     "6ª Classe Masculino": [
         {
-            "A": { "name": "Eduardo Pires [3/4]" },
-            "B": { "name": "Pedro Henrique Morra" },
+            "A": {
+                "name": "Eduardo Pires [3/4]"
+            },
+            "B": {
+                "name": "Pedro Henrique Morra"
+            },
             "date": "Thu 13/11/2025",
             "time": "18:00"
         },
         {
-            "A": { "name": "Dhamocles Alves" },
-            "B": { "name": "Gustavo Leão" },
+            "A": {
+                "name": "Dhamocles Alves"
+            },
+            "B": {
+                "name": "Gustavo Leão"
+            },
             "date": "Thu 13/11/2025",
             "time": "19:00"
         }
     ],
     "3ª Classe Feminino": [
         {
-            "A": { "name": "Bruna Dutra" },
-            "B": { "name": "Leticia Rebello" },
+            "A": {
+                "name": "Bruna Dutra"
+            },
+            "B": {
+                "name": "Leticia Rebello"
+            },
             "date": "Sat 15/11/2025",
             "time": "12:30"
         }
     ],
     "5ª Classe Feminino": [
         {
-            "A": { "name": "Carla Tutida" },
-            "B": { "name": "Priscila Grintzos" },
+            "A": {
+                "name": "Carla Tutida"
+            },
+            "B": {
+                "name": "Priscila Grintzos"
+            },
             "date": "Sat 15/11/2025",
             "time": "12:00"
         }
     ],
     "5ª Classe Feminino - Group": [
         {
-            "A": { "name": "Carla Tutida" },
-            "B": { "name": "Andrea Lucio" },
+            "A": {
+                "name": "Carla Tutida"
+            },
+            "B": {
+                "name": "Andrea Lucio"
+            },
             "date": "Fri 14/11/2025",
             "time": "18:30"
         },
         {
-            "A": { "name": "Priscila Grintzos" },
-            "B": { "name": "Andrea Lucio" },
+            "A": {
+                "name": "Priscila Grintzos"
+            },
+            "B": {
+                "name": "Andrea Lucio"
+            },
             "date": "Sat 15/11/2025",
             "time": "09:30"
         }
     ],
     "6ª Classe Feminino": [
         {
-            "A": { "name": "Greici Tolfo" },
-            "B": { "name": "Larissa Paiva" },
+            "A": {
+                "name": "Greici Tolfo"
+            },
+            "B": {
+                "name": "Larissa Paiva"
+            },
             "date": "Sat 15/11/2025",
             "time": "11:00"
         }
     ],
     "Duplas": [
         {
-            "A": { "name": "Bruno Muniz/Gert Wolfgang" },
-            "B": { "name": "Bernardo Miranda/Bruno Crepory" },
+            "A": {
+                "name": "Bruno Muniz/Gert Wolfgang"
+            },
+            "B": {
+                "name": "Bernardo Miranda/Bruno Crepory"
+            },
             "date": "Thu 13/11/2025",
             "time": "21:00"
         },
         {
-            "A": { "name": "André Almeida/Marcelo Isaias" },
-            "B": { "name": "Daniel Russo/Guilherme Davis" },
+            "A": {
+                "name": "André Almeida/Marcelo Isaias"
+            },
+            "B": {
+                "name": "Daniel Russo/Guilherme Davis"
+            },
             "date": "Sat 15/11/2025",
             "time": "11:00"
         }
@@ -124,6 +184,7 @@
         "timerPauseBetweenGames": 120,
         "name": "Torneio Interno CSC",
         "Placeholder_Match": "${date} ${time} : ${FirstOfList:${A}${A.name}} - ${FirstOfList:${B}${B.name}} ${result}",
-        "__nrOfDraws__": 11
+        "__nrOfDraws__": 11,
+        "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js"
     }
 }

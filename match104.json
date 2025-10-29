@@ -30,6 +30,7 @@
         "__nrOfMatches__": 4,
         "__generated__": "2025-10-29T08:47:01",
         "__SPORTYHQ_GUID__": "Nathan-Homes-Squash-Battle-Royale-Season-2",
+        "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
         "__SPORTYHQ_URL__": "https://www.sportyhq.com/tournament/view/Nathan-Homes-Squash-Battle-Royale-Season-2"
     }
 }
