@@ -1,37 +1,917 @@
 [
   {
-    "Section": "Indian Squash test feed - matches",
-    "Name": "Feed 1",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
-    "ValidFrom": "20251001",
-    "ValidTo": "20251201"
+    "ValidFrom": "20250730",
+    "ValidTo": "20251105",
+    "Name": "Ra'anana Squash League - Summer 2025",
+    "Country": "Israel",
+    "Region": "Ra'anana",
+    "FeedMatches": "tournamentsoftware/30808069-0E09-4809-A91E-83AD618CCC55/matches",
+    "FeedPlayers": "tournamentsoftware/30808069-0E09-4809-A91E-83AD618CCC55/players"
   },
   {
-    "Section": "Indian Squash test feed - League",
-    "Name": "Feed 2",
-    "FeedMatches": "https://squore.double-yellow.be/feed/inc/feeds.www.tournamentsoftware.com.1.json",
-    "ValidFrom": "20251001",
-    "ValidTo": "20251201"
+    "ValidFrom": "20250929",
+    "ValidTo": "20251027",
+    "Name": "Boxcompetitie 2025-26-2",
+    "Country": "Belgium",
+    "Region": "Hasselt",
+    "FeedMatches": "tournamentsoftware/BDF32FDD-6E2B-4939-8DDF-F3B43589C633/matches",
+    "FeedPlayers": "tournamentsoftware/BDF32FDD-6E2B-4939-8DDF-F3B43589C633/players"
   },
   {
-    "Section": "Indian Squash test feed - Tournament",
-    "Name": "Tournament example 1 - Feed 3",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match103.json",
-    "ValidFrom": "20251001",
-    "ValidTo": "20251201"
+    "ValidFrom": "20251014",
+    "ValidTo": "20251025",
+    "Name": "4ta Fecha Nacional Casa Argentina 2025",
+    "Country": "Paraguay",
+    "Region": "Asuncion",
+    "FeedMatches": "tournamentsoftware/7BD73083-C04A-4D0F-8477-8D7136B4B518/matches",
+    "FeedPlayers": "tournamentsoftware/7BD73083-C04A-4D0F-8477-8D7136B4B518/players"
   },
-   {
-    "Section": "Indian Squash test feed - Tournament",
-    "Name": "Tournament example 2 - Feed 4",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match104.json",
-    "ValidFrom": "20251001",
-    "ValidTo": "20251201"
+  {
+    "ValidFrom": "20251020",
+    "ValidTo": "20251024",
+    "Name": "אליפות הרצליה הפתוחה 2025",
+    "Country": "Israel",
+    "Region": "הרצליה",
+    "FeedMatches": "tournamentsoftware/85C712FB-2BAB-4185-83DF-8494E93A797A/matches",
+    "FeedPlayers": "tournamentsoftware/85C712FB-2BAB-4185-83DF-8494E93A797A/players"
   },
-   {
-    "Section": "Indian Squash test feed - Tournament",
-    "Name": "Tournament example 3 - Feed 5",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match105.json",
-    "ValidFrom": "20251001",
-    "ValidTo": "20251201"
+  {
+    "ValidFrom": "20251020",
+    "ValidTo": "20251024",
+    "Name": "MARIGOLD 2025 SGSquash Circuit 3",
+    "Country": "Singapore",
+    "FeedMatches": "tournamentsoftware/8E4680DF-74F4-42A4-AFCD-AF9684CD8541/matches",
+    "FeedPlayers": "tournamentsoftware/8E4680DF-74F4-42A4-AFCD-AF9684CD8541/players"
+  },
+  {
+    "ValidFrom": "20251023",
+    "ValidTo": "20251025",
+    "Name": "Torneio Master e Duplas 25",
+    "Country": "Brazil",
+    "Region": "Belo Horizonte",
+    "FeedMatches": "tournamentsoftware/B5ED112F-AD1B-40CE-90FA-551C42F8C466/matches",
+    "FeedPlayers": "tournamentsoftware/B5ED112F-AD1B-40CE-90FA-551C42F8C466/players"
+  },
+  {
+    "ValidFrom": "20251023",
+    "ValidTo": "20251026",
+    "Name": "Campeonato Nacional Open, A, B, C, D - Master y Senior Tarija 2025",
+    "Country": "Bolivia",
+    "Region": "Tarija",
+    "FeedMatches": "tournamentsoftware/4E054C63-FF46-46C5-9AF9-F9269B30062E/matches",
+    "FeedPlayers": "tournamentsoftware/4E054C63-FF46-46C5-9AF9-F9269B30062E/players"
+  },
+  {
+    "ValidFrom": "20251023",
+    "ValidTo": "20251026",
+    "Name": "VII Valida Nacional Juvenil y Abierta  De Squash Ambato 2025",
+    "Country": "Ecuador",
+    "Region": "Ambato",
+    "FeedMatches": "tournamentsoftware/0F39C6B0-3F27-404C-A567-185F8938EEF7/matches",
+    "FeedPlayers": "tournamentsoftware/0F39C6B0-3F27-404C-A567-185F8938EEF7/players"
+  },
+  {
+    "ValidFrom": "20251024",
+    "ValidTo": "20251026",
+    "Name": "3 Etapa Nordestão 2025 (Fortaleza)",
+    "Country": "Brazil",
+    "Region": "Fortaleza",
+    "FeedMatches": "tournamentsoftware/5957888C-E155-411F-B3B7-A5B2D6CAD1AC/matches",
+    "FeedPlayers": "tournamentsoftware/5957888C-E155-411F-B3B7-A5B2D6CAD1AC/players"
+  },
+  {
+    "ValidFrom": "20251024",
+    "ValidTo": "20251026",
+    "Name": "7ª Etapa CIRPAS25 - Curitiba - Clube Curitibano",
+    "Country": "Brazil",
+    "Region": "Curitiba",
+    "FeedMatches": "tournamentsoftware/DDED129C-04AC-4633-9E48-860FFDA1B501/matches",
+    "FeedPlayers": "tournamentsoftware/DDED129C-04AC-4633-9E48-860FFDA1B501/players"
+  },
+  {
+    "ValidFrom": "20251024",
+    "ValidTo": "20251026",
+    "Name": "Maxxis Open - FPS Tour Silver",
+    "Country": "Brazil",
+    "Region": "SP",
+    "FeedMatches": "tournamentsoftware/6FCAB769-5B83-48E3-B66B-06A88362A559/matches",
+    "FeedPlayers": "tournamentsoftware/6FCAB769-5B83-48E3-B66B-06A88362A559/players"
+  },
+  {
+    "ValidFrom": "20251024",
+    "ValidTo": "20251026",
+    "Name": "Junior Grand Prix 2, Sport92",
+    "Country": "Denmark",
+    "Region": "Herning",
+    "FeedMatches": "tournamentsoftware/B14EEB6B-3AAB-4F0F-9F8F-86CEDEFEF68E/matches",
+    "FeedPlayers": "tournamentsoftware/B14EEB6B-3AAB-4F0F-9F8F-86CEDEFEF68E/players"
+  },
+  {
+    "ValidFrom": "20251025",
+    "ValidTo": "20251025",
+    "Name": "1. NRW Rangliste Damen/Herren 2025/2026",
+    "Country": "Germany",
+    "Region": "Kaarst",
+    "FeedMatches": "tournamentsoftware/1FD22043-EE68-42B9-BFF2-68678F49595D/matches",
+    "FeedPlayers": "tournamentsoftware/1FD22043-EE68-42B9-BFF2-68678F49595D/players"
+  },
+  {
+    "ValidFrom": "20251025",
+    "ValidTo": "20251025",
+    "Name": "Campionato Galego Squash de Veteráns 2025",
+    "Country": "Spain",
+    "Region": "Pontevedra",
+    "FeedMatches": "tournamentsoftware/2E2B2659-56DE-4F10-AEFD-206178463719/matches",
+    "FeedPlayers": "tournamentsoftware/2E2B2659-56DE-4F10-AEFD-206178463719/players"
+  },
+  {
+    "ValidFrom": "20251025",
+    "ValidTo": "20251031",
+    "Name": "Sub Junior & Junior National Squash Championships 2025",
+    "Country": "India",
+    "Region": "Chennai",
+    "FeedMatches": "tournamentsoftware/54F94F5B-58E3-44C2-820A-53A2FEB41BD4/matches",
+    "FeedPlayers": "tournamentsoftware/54F94F5B-58E3-44C2-820A-53A2FEB41BD4/players"
+  },
+  {
+    "ValidFrom": "20251025",
+    "ValidTo": "20251102",
+    "Name": "بطولة كأس مصر 25-26",
+    "Country": "Egypt",
+    "Region": "Alexandria",
+    "FeedMatches": "tournamentsoftware/15FC7551-FA42-475C-B19C-7DF31B8D2369/matches",
+    "FeedPlayers": "tournamentsoftware/15FC7551-FA42-475C-B19C-7DF31B8D2369/players"
+  },
+  {
+    "ValidFrom": "20251029",
+    "ValidTo": "20251101",
+    "Name": "MARIGOLD 2025 SGSquash PSA Satellite 3",
+    "Country": "Singapore",
+    "FeedMatches": "tournamentsoftware/56EDB5A8-7F7A-4E7E-B837-78F8A7B10040/matches",
+    "FeedPlayers": "tournamentsoftware/56EDB5A8-7F7A-4E7E-B837-78F8A7B10040/players"
+  },
+  {
+    "ValidFrom": "20251029",
+    "ValidTo": "20251102",
+    "Name": "RGSA Open 2025 - FPS Tour Platinum",
+    "Country": "Brazil",
+    "Region": "São Caetano do Sul",
+    "FeedMatches": "tournamentsoftware/FBAB1964-4334-44C3-B012-BAA6C18CB3D8/matches",
+    "FeedPlayers": "tournamentsoftware/FBAB1964-4334-44C3-B012-BAA6C18CB3D8/players"
+  },
+  {
+    "ValidFrom": "20251029",
+    "ValidTo": "20251102",
+    "Name": "2025年澳門壁球第三次排名賽（成人組）",
+    "Country": "Macau China",
+    "Region": "Macau",
+    "FeedMatches": "tournamentsoftware/091BD3F6-7760-43BC-9466-4C15967E73A6/matches",
+    "FeedPlayers": "tournamentsoftware/091BD3F6-7760-43BC-9466-4C15967E73A6/players"
+  },
+  {
+    "ValidFrom": "20251031",
+    "ValidTo": "20251102",
+    "Name": "Copa JChicatto - 28° Campeonato Catarinense de Squash e 18º Campeonato por Equipes 2025",
+    "Country": "Brazil",
+    "Region": "Blumenau",
+    "FeedMatches": "tournamentsoftware/BEDBCED0-479D-443B-8420-5D012382CE72/matches",
+    "FeedPlayers": "tournamentsoftware/BEDBCED0-479D-443B-8420-5D012382CE72/players"
+  },
+  {
+    "ValidFrom": "20251101",
+    "ValidTo": "20251101",
+    "Name": "Clubkampioenschappen 2025",
+    "Country": "Netherlands",
+    "Region": "Hillegom",
+    "FeedMatches": "tournamentsoftware/3A629733-3A76-42E6-A1CD-865CEB37EF87/matches",
+    "FeedPlayers": "tournamentsoftware/3A629733-3A76-42E6-A1CD-865CEB37EF87/players"
+  },
+  {
+    "ValidFrom": "20251101",
+    "ValidTo": "20251101",
+    "Name": "Dunlop Road To LA Tour DUBBELS - Squash Apeldoorn (Afgelast)",
+    "Country": "Netherlands",
+    "Region": "Apeldoorn",
+    "FeedMatches": "tournamentsoftware/CEC21948-BEE9-46E1-8D3A-EF0D27D962D8/matches",
+    "FeedPlayers": "tournamentsoftware/CEC21948-BEE9-46E1-8D3A-EF0D27D962D8/players"
+  },
+  {
+    "ValidFrom": "20251101",
+    "ValidTo": "20251102",
+    "Name": "3. DSQV Ranglistenturnier 2025-2026 Böblingen",
+    "Country": "Germany",
+    "Region": "Böblingen",
+    "FeedMatches": "tournamentsoftware/B4F61A80-1AD6-4AD4-AA3D-CC7766437051/matches",
+    "FeedPlayers": "tournamentsoftware/B4F61A80-1AD6-4AD4-AA3D-CC7766437051/players"
+  },
+  {
+    "ValidFrom": "20251101",
+    "ValidTo": "20251102",
+    "Name": "Örebro Squash Open [Graderad]",
+    "Country": "Sweden",
+    "Region": "Örebro",
+    "FeedMatches": "tournamentsoftware/6FC53D68-7646-4E47-852E-B55402C37E89/matches",
+    "FeedPlayers": "tournamentsoftware/6FC53D68-7646-4E47-852E-B55402C37E89/players"
+  },
+  {
+    "ValidFrom": "20251101",
+    "ValidTo": "20260523",
+    "Name": "PEFT LEAGUE 2025-2026",
+    "Country": "Greece",
+    "Region": "Athens",
+    "FeedMatches": "tournamentsoftware/77A7BC31-1048-4677-9DD9-33B14FC07D5B/matches",
+    "FeedPlayers": "tournamentsoftware/77A7BC31-1048-4677-9DD9-33B14FC07D5B/players"
+  },
+  {
+    "ValidFrom": "20251102",
+    "ValidTo": "20251102",
+    "Name": "NSIB challenge 2025",
+    "Country": "Netherlands",
+    "Region": "Den Haag",
+    "FeedMatches": "tournamentsoftware/0AAAE5FE-C1B6-4D1D-950B-FA7C5B55D7E8/matches",
+    "FeedPlayers": "tournamentsoftware/0AAAE5FE-C1B6-4D1D-950B-FA7C5B55D7E8/players"
+  },
+  {
+    "ValidFrom": "20251107",
+    "ValidTo": "20251108",
+    "Name": "SQUASHLIFE TOUR PSA ♂  APELDOORN 2025  powered by UNSQUASHABLE",
+    "Country": "Netherlands",
+    "Region": "Apeldoorn",
+    "FeedMatches": "tournamentsoftware/14943A5E-8A1E-408C-BC99-88579273246E/matches",
+    "FeedPlayers": "tournamentsoftware/14943A5E-8A1E-408C-BC99-88579273246E/players"
+  },
+  {
+    "ValidFrom": "20251108",
+    "ValidTo": "20251108",
+    "Name": "Olympia Decathlon Open 2025",
+    "Country": "Belgium",
+    "Region": "Hasselt",
+    "FeedMatches": "tournamentsoftware/10189C0B-3B53-4D71-B92D-AD1D6D12341A/matches",
+    "FeedPlayers": "tournamentsoftware/10189C0B-3B53-4D71-B92D-AD1D6D12341A/players"
+  },
+  {
+    "ValidFrom": "20251108",
+    "ValidTo": "20251108",
+    "Name": "O2 Life Squashtoernooi",
+    "Country": "Netherlands",
+    "Region": "Arnhem",
+    "FeedMatches": "tournamentsoftware/F2C98A4F-0190-492B-994B-579FECF11EA8/matches",
+    "FeedPlayers": "tournamentsoftware/F2C98A4F-0190-492B-994B-579FECF11EA8/players"
+  },
+  {
+    "ValidFrom": "20251108",
+    "ValidTo": "20251109",
+    "Name": "2. DSQV Junior Open Dresden 2025-2026",
+    "Country": "Germany",
+    "Region": "Dresden",
+    "FeedMatches": "tournamentsoftware/66FEE685-04F4-425E-BD74-6960D1CAF8D4/matches",
+    "FeedPlayers": "tournamentsoftware/66FEE685-04F4-425E-BD74-6960D1CAF8D4/players"
+  },
+  {
+    "ValidFrom": "20251109",
+    "ValidTo": "20251109",
+    "Name": "Clubkampioenschappen Squash 2025",
+    "Country": "Netherlands",
+    "Region": "Zwolle",
+    "FeedMatches": "tournamentsoftware/D9F3BEAA-B26A-4B63-ACF2-1C4E2B52F5DC/matches",
+    "FeedPlayers": "tournamentsoftware/D9F3BEAA-B26A-4B63-ACF2-1C4E2B52F5DC/players"
+  },
+  {
+    "ValidFrom": "20251114",
+    "ValidTo": "20251115",
+    "Name": "46. HEAD Bayrische Einzelmeisterschaften 2025",
+    "Country": "Germany",
+    "Region": "Königsbrunn",
+    "FeedMatches": "tournamentsoftware/9623EEC0-79E7-40B5-A610-59C27AAAD453/matches",
+    "FeedPlayers": "tournamentsoftware/9623EEC0-79E7-40B5-A610-59C27AAAD453/players"
+  },
+  {
+    "ValidFrom": "20251114",
+    "ValidTo": "20251116",
+    "Name": "Vlaams Kampioenschap senioren 2025",
+    "Country": "Belgium",
+    "Region": "Herentals",
+    "FeedMatches": "tournamentsoftware/4DDA999A-8341-452A-9ED5-3F9A085C2D54/matches",
+    "FeedPlayers": "tournamentsoftware/4DDA999A-8341-452A-9ED5-3F9A085C2D54/players"
+  },
+  {
+    "ValidFrom": "20251114",
+    "ValidTo": "20251116",
+    "Name": "Dutch Open Masters 2025",
+    "Country": "Netherlands",
+    "Region": "Den Haag",
+    "FeedMatches": "tournamentsoftware/6820FC59-D7EE-41AA-8A6D-FC4362703F60/matches",
+    "FeedPlayers": "tournamentsoftware/6820FC59-D7EE-41AA-8A6D-FC4362703F60/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251115",
+    "Name": "HSQV-Einzelmeisterschaft 2025",
+    "Country": "Germany",
+    "Region": "Maintal",
+    "FeedMatches": "tournamentsoftware/6A0BFBA7-ABE9-4988-9114-BD76CAAE22A4/matches",
+    "FeedPlayers": "tournamentsoftware/6A0BFBA7-ABE9-4988-9114-BD76CAAE22A4/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251115",
+    "Name": "SRLV BW Einzelmeisterschaft 2025",
+    "Country": "Germany",
+    "Region": "Karlsruhe",
+    "FeedMatches": "tournamentsoftware/1128EAEA-B151-4695-AFE9-64770D4C0F4B/matches",
+    "FeedPlayers": "tournamentsoftware/1128EAEA-B151-4695-AFE9-64770D4C0F4B/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251115",
+    "Name": "III Proba Circuito Jr Borja Golán Pontevedra 2025",
+    "Country": "Spain",
+    "Region": "Pontevedra",
+    "FeedMatches": "tournamentsoftware/F56A5425-D9E1-466F-A8E5-E33B8D103034/matches",
+    "FeedPlayers": "tournamentsoftware/F56A5425-D9E1-466F-A8E5-E33B8D103034/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251116",
+    "Name": "Squash Delft Clubkampioenschappen 2025",
+    "Country": "Netherlands",
+    "Region": "Delft",
+    "FeedMatches": "tournamentsoftware/D7224E5C-39D3-4EA7-B984-DA679993DCA5/matches",
+    "FeedPlayers": "tournamentsoftware/D7224E5C-39D3-4EA7-B984-DA679993DCA5/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251116",
+    "Name": "Stockholms SK JGP 15-16 nov 2025",
+    "Country": "Sweden",
+    "Region": "Stockholm",
+    "FeedMatches": "tournamentsoftware/3AA7E1BB-F781-45CC-A896-996FADEA9A32/matches",
+    "FeedPlayers": "tournamentsoftware/3AA7E1BB-F781-45CC-A896-996FADEA9A32/players"
+  },
+  {
+    "ValidFrom": "20251115",
+    "ValidTo": "20251116",
+    "Name": "South Wales Junior Open",
+    "Country": "Wales",
+    "Region": "Newport",
+    "FeedMatches": "tournamentsoftware/E8B0F0F9-E1E8-47D6-9E00-66051190845C/matches",
+    "FeedPlayers": "tournamentsoftware/E8B0F0F9-E1E8-47D6-9E00-66051190845C/players"
+  },
+  {
+    "ValidFrom": "20251116",
+    "ValidTo": "20251116",
+    "Name": "1. NRW-Jugendrangliste 2025/2026 - Hasbergen",
+    "Country": "Germany",
+    "Region": "Hasbergen",
+    "FeedMatches": "tournamentsoftware/A23AA3BC-6236-4088-99E8-152C45A28301/matches",
+    "FeedPlayers": "tournamentsoftware/A23AA3BC-6236-4088-99E8-152C45A28301/players"
+  },
+  {
+    "ValidFrom": "20251116",
+    "ValidTo": "20251116",
+    "Name": "De Troon van het Noorden 2025",
+    "Country": "Netherlands",
+    "Region": "Drachten",
+    "FeedMatches": "tournamentsoftware/D4F43485-F0FB-4111-A742-44875FEF64E8/matches",
+    "FeedPlayers": "tournamentsoftware/D4F43485-F0FB-4111-A742-44875FEF64E8/players"
+  },
+  {
+    "ValidFrom": "20251117",
+    "ValidTo": "20251120",
+    "Name": "Yadupati Singhania Memorial Squash Tournament",
+    "Country": "India",
+    "Region": "prayagraj",
+    "FeedMatches": "tournamentsoftware/C820838B-B850-41E7-B698-3F9FBE093BB1/matches",
+    "FeedPlayers": "tournamentsoftware/C820838B-B850-41E7-B698-3F9FBE093BB1/players"
+  },
+  {
+    "ValidFrom": "20251119",
+    "ValidTo": "20251123",
+    "Name": "46º Campeonato Brasileiro de Squash",
+    "Country": "Brazil",
+    "Region": "Belo Horizonte",
+    "FeedMatches": "tournamentsoftware/B2E4459A-2CA2-44E5-A659-B1C8ECECB83E/matches",
+    "FeedPlayers": "tournamentsoftware/B2E4459A-2CA2-44E5-A659-B1C8ECECB83E/players"
+  },
+  {
+    "ValidFrom": "20251121",
+    "ValidTo": "20251123",
+    "Name": "Intersquash Open 2025",
+    "Country": "Sweden",
+    "Region": "Stockholm",
+    "FeedMatches": "tournamentsoftware/4D6517D5-7228-490A-A670-4FF4D3BF000E/matches",
+    "FeedPlayers": "tournamentsoftware/4D6517D5-7228-490A-A670-4FF4D3BF000E/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251122",
+    "Name": "Dunlop 4 - Squash Point",
+    "Country": "Belgium",
+    "Region": "Geel",
+    "FeedMatches": "tournamentsoftware/22F88664-CA68-434E-B701-BF111327EBF6/matches",
+    "FeedPlayers": "tournamentsoftware/22F88664-CA68-434E-B701-BF111327EBF6/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251122",
+    "Name": "1. Hessische Jugendrangliste 2025 / 26",
+    "Country": "Germany",
+    "Region": "Darmstadt",
+    "FeedMatches": "tournamentsoftware/59AF7633-3DC7-46D2-A6B2-3E9EB1CA598E/matches",
+    "FeedPlayers": "tournamentsoftware/59AF7633-3DC7-46D2-A6B2-3E9EB1CA598E/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251122",
+    "Name": "My Sunny Smile Regio Cup 2025",
+    "Country": "Germany",
+    "Region": "Böblingen",
+    "FeedMatches": "tournamentsoftware/3E00324B-BFE9-49EB-9E9E-4BDE8678BD2C/matches",
+    "FeedPlayers": "tournamentsoftware/3E00324B-BFE9-49EB-9E9E-4BDE8678BD2C/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251122",
+    "Name": "Dublin City Wallball Open 2025",
+    "Country": "Ireland",
+    "Region": "Dublin",
+    "FeedMatches": "tournamentsoftware/CA6B1EB1-3F60-4371-B23B-FF000BE7691A/matches",
+    "FeedPlayers": "tournamentsoftware/CA6B1EB1-3F60-4371-B23B-FF000BE7691A/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251123",
+    "Name": "1. Masters Ranglistenturnier 2025/2026",
+    "Country": "Germany",
+    "Region": "Krefeld",
+    "FeedMatches": "tournamentsoftware/E7342840-992D-4323-839D-CB5E7AE2F578/matches",
+    "FeedPlayers": "tournamentsoftware/E7342840-992D-4323-839D-CB5E7AE2F578/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251123",
+    "Name": "Smashfit Cup 2025 Graderad och Mini JGP",
+    "Country": "Sweden",
+    "Region": "Norrköping",
+    "FeedMatches": "tournamentsoftware/D96E77CD-37B3-46DB-AC6C-AB68180F619F/matches",
+    "FeedPlayers": "tournamentsoftware/D96E77CD-37B3-46DB-AC6C-AB68180F619F/players"
+  },
+  {
+    "ValidFrom": "20251122",
+    "ValidTo": "20251123",
+    "Name": "VSQ KM 2025_26",
+    "Country": "Sweden",
+    "Region": "Växjö",
+    "FeedMatches": "tournamentsoftware/68B5E946-1603-4E3F-824E-D58E0C5A1ABC/matches",
+    "FeedPlayers": "tournamentsoftware/68B5E946-1603-4E3F-824E-D58E0C5A1ABC/players"
+  },
+  {
+    "ValidFrom": "20251123",
+    "ValidTo": "20251123",
+    "Name": "ClubKampioenschap Victoria 2025",
+    "Country": "Netherlands",
+    "Region": "Rotterdam",
+    "FeedMatches": "tournamentsoftware/27207F9E-D031-45B8-9DCF-095F3B792879/matches",
+    "FeedPlayers": "tournamentsoftware/27207F9E-D031-45B8-9DCF-095F3B792879/players"
+  },
+  {
+    "ValidFrom": "20251123",
+    "ValidTo": "20251123",
+    "Name": "TMG Junior Training Series 25-26 - Squash Utrecht #1",
+    "Country": "Netherlands",
+    "Region": "Utrecht",
+    "FeedMatches": "tournamentsoftware/D3549570-F434-4A3E-878C-02833C912DDB/matches",
+    "FeedPlayers": "tournamentsoftware/D3549570-F434-4A3E-878C-02833C912DDB/players"
+  },
+  {
+    "ValidFrom": "20251129",
+    "ValidTo": "20251129",
+    "Name": "Dunlop Road To LA Tour - 'MeerSquash Hoofddorp",
+    "Country": "Netherlands",
+    "Region": "Hoofddorp",
+    "FeedMatches": "tournamentsoftware/47F35C2D-B43A-4236-9619-6F8B2DC889CB/matches",
+    "FeedPlayers": "tournamentsoftware/47F35C2D-B43A-4236-9619-6F8B2DC889CB/players"
+  },
+  {
+    "ValidFrom": "20251129",
+    "ValidTo": "20251129",
+    "Name": "Copa Ibérica Squash Volta 2025",
+    "Country": "Spain",
+    "Region": "Vigo",
+    "FeedMatches": "tournamentsoftware/076157A3-DD03-48F6-9258-F96E790680FD/matches",
+    "FeedPlayers": "tournamentsoftware/076157A3-DD03-48F6-9258-F96E790680FD/players"
+  },
+  {
+    "ValidFrom": "20251129",
+    "ValidTo": "20251130",
+    "Name": "4. DSQV Ranglistenturnier 2025-2026 Berlin",
+    "Country": "Germany",
+    "Region": "Berlin",
+    "FeedMatches": "tournamentsoftware/1EFFE61E-7AF9-45BE-B0B9-D90BCE3C2213/matches",
+    "FeedPlayers": "tournamentsoftware/1EFFE61E-7AF9-45BE-B0B9-D90BCE3C2213/players"
+  },
+  {
+    "ValidFrom": "20251207",
+    "ValidTo": "20251207",
+    "Name": "TMG Junior Squash Series 25-26 - MeerSquash Hoofddorp #2 (Sint&Kerst)",
+    "Country": "Netherlands",
+    "Region": "Hoofddorp",
+    "FeedMatches": "tournamentsoftware/0BFC8FD8-1865-4241-B8F1-12230FE49EFB/matches",
+    "FeedPlayers": "tournamentsoftware/0BFC8FD8-1865-4241-B8F1-12230FE49EFB/players"
+  },
+  {
+    "ValidFrom": "20251209",
+    "ValidTo": "20251214",
+    "Name": "ONCOCARE Singapore Junior Open 2025",
+    "Country": "Singapore",
+    "FeedMatches": "tournamentsoftware/55AF65EA-866B-41FD-8FB4-B64C6BC8DD2D/matches",
+    "FeedPlayers": "tournamentsoftware/55AF65EA-866B-41FD-8FB4-B64C6BC8DD2D/players"
+  },
+  {
+    "ValidFrom": "20251212",
+    "ValidTo": "20251213",
+    "Name": "SQUASHLIFE TOUR PSA ♂ HOUTRUST  DEN HAAG 2025  powered by UNSQUASHABLE",
+    "Country": "Netherlands",
+    "Region": "DEN HAAG",
+    "FeedMatches": "tournamentsoftware/4D8ABE29-550C-41D4-B730-83F992926B62/matches",
+    "FeedPlayers": "tournamentsoftware/4D8ABE29-550C-41D4-B730-83F992926B62/players"
+  },
+  {
+    "ValidFrom": "20251212",
+    "ValidTo": "20251214",
+    "Name": "Svenska Mästerskapen 2025",
+    "Country": "Sweden",
+    "Region": "Stockholm",
+    "FeedMatches": "tournamentsoftware/0EEE325C-577D-4095-B5B4-9A37839FD25C/matches",
+    "FeedPlayers": "tournamentsoftware/0EEE325C-577D-4095-B5B4-9A37839FD25C/players"
+  },
+  {
+    "ValidFrom": "20251212",
+    "ValidTo": "20251214",
+    "Name": "Welsh National Championships 2025",
+    "Country": "Wales",
+    "Region": "Swansea",
+    "FeedMatches": "tournamentsoftware/30FEC2F0-B50B-485A-82D0-AE3CC87A6CF2/matches",
+    "FeedPlayers": "tournamentsoftware/30FEC2F0-B50B-485A-82D0-AE3CC87A6CF2/players"
+  },
+  {
+    "ValidFrom": "20251213",
+    "ValidTo": "20251213",
+    "Name": "SJBW Team Turnier",
+    "Country": "Germany",
+    "Region": "Scharnhausen",
+    "FeedMatches": "tournamentsoftware/46E57F4C-EA00-46E5-8229-CC959ABAB02A/matches",
+    "FeedPlayers": "tournamentsoftware/46E57F4C-EA00-46E5-8229-CC959ABAB02A/players"
+  },
+  {
+    "ValidFrom": "20251213",
+    "ValidTo": "20251214",
+    "Name": "Decathlon De Dreef Open 2025",
+    "Country": "Belgium",
+    "Region": "Vorselaar",
+    "FeedMatches": "tournamentsoftware/0EF36774-8324-43B4-BF3F-1F455E51E462/matches",
+    "FeedPlayers": "tournamentsoftware/0EF36774-8324-43B4-BF3F-1F455E51E462/players"
+  },
+  {
+    "ValidFrom": "20251213",
+    "ValidTo": "20251214",
+    "Name": "NK -23 2025 (Victoria Squash Rotterdam)",
+    "Country": "Netherlands",
+    "Region": "Rotterdam",
+    "FeedMatches": "tournamentsoftware/A0DAA7AD-4076-4F48-8892-10D6B2A86A31/matches",
+    "FeedPlayers": "tournamentsoftware/A0DAA7AD-4076-4F48-8892-10D6B2A86A31/players"
+  },
+  {
+    "ValidFrom": "20251213",
+    "ValidTo": "20251214",
+    "Name": "NK Masters 2025 (Victoria Rotterdam)",
+    "Country": "Netherlands",
+    "Region": "Rotterdam",
+    "FeedMatches": "tournamentsoftware/5472ECB8-D51E-457D-9360-A9B1EDB5C221/matches",
+    "FeedPlayers": "tournamentsoftware/5472ECB8-D51E-457D-9360-A9B1EDB5C221/players"
+  },
+  {
+    "ValidFrom": "20251219",
+    "ValidTo": "20251219",
+    "Name": "GlowSquash Fun&Play Evening (Squash Hillegom)",
+    "Country": "Netherlands",
+    "Region": "Hillegom",
+    "FeedMatches": "tournamentsoftware/A516C369-4D4A-43B3-AFCC-B5F10397B1BE/matches",
+    "FeedPlayers": "tournamentsoftware/A516C369-4D4A-43B3-AFCC-B5F10397B1BE/players"
+  },
+  {
+    "ValidFrom": "20251227",
+    "ValidTo": "20251227",
+    "Name": "SpeckWeg Turnier 2025",
+    "Country": "Germany",
+    "Region": "Bornheim",
+    "FeedMatches": "tournamentsoftware/046CF04A-745D-4ECD-A131-FA07687FE3E7/matches",
+    "FeedPlayers": "tournamentsoftware/046CF04A-745D-4ECD-A131-FA07687FE3E7/players"
+  },
+  {
+    "ValidFrom": "20251228",
+    "ValidTo": "20251228",
+    "Name": "Castroper Weihnachtsturnier 2025",
+    "Country": "Germany",
+    "Region": "Castrop-Rauxel",
+    "FeedMatches": "tournamentsoftware/1E9CEC15-1686-47EF-9017-58A7C1677F8F/matches",
+    "FeedPlayers": "tournamentsoftware/1E9CEC15-1686-47EF-9017-58A7C1677F8F/players"
+  },
+  {
+    "ValidFrom": "20260103",
+    "ValidTo": "20260104",
+    "Name": "5. DSQV-RL 2025-2026 Paderborn",
+    "Country": "Germany",
+    "Region": "Paderborn",
+    "FeedMatches": "tournamentsoftware/2AEF6870-7B06-44C9-B984-9371A6A99C88/matches",
+    "FeedPlayers": "tournamentsoftware/2AEF6870-7B06-44C9-B984-9371A6A99C88/players"
+  },
+  {
+    "ValidFrom": "20260110",
+    "ValidTo": "20260110",
+    "Name": "Dunlop 5 - Squash Club De Schreef",
+    "Country": "Belgium",
+    "Region": "Aalst",
+    "FeedMatches": "tournamentsoftware/A23E957C-412E-4753-837F-3126E7CABBD1/matches",
+    "FeedPlayers": "tournamentsoftware/A23E957C-412E-4753-837F-3126E7CABBD1/players"
+  },
+  {
+    "ValidFrom": "20260110",
+    "ValidTo": "20260110",
+    "Name": "28. RSC Memorial Turnier 2026",
+    "Country": "Germany",
+    "Region": "München",
+    "FeedMatches": "tournamentsoftware/729783FD-2660-4693-B297-E84E3591B857/matches",
+    "FeedPlayers": "tournamentsoftware/729783FD-2660-4693-B297-E84E3591B857/players"
+  },
+  {
+    "ValidFrom": "20260110",
+    "ValidTo": "20260111",
+    "Name": "Junior-SM 2026",
+    "Country": "Sweden",
+    "Region": "Linköping",
+    "FeedMatches": "tournamentsoftware/85E9F400-5A82-4FCB-8911-029830493DD6/matches",
+    "FeedPlayers": "tournamentsoftware/85E9F400-5A82-4FCB-8911-029830493DD6/players"
+  },
+  {
+    "ValidFrom": "20260123",
+    "ValidTo": "20260125",
+    "Name": "Championnat de Belgique juniors 2026 - Belgisch Kampioenschap junioren 2026",
+    "Country": "Belgium",
+    "Region": "Liège",
+    "FeedMatches": "tournamentsoftware/1F138BCC-8968-4B95-A621-4CEBB4F16536/matches",
+    "FeedPlayers": "tournamentsoftware/1F138BCC-8968-4B95-A621-4CEBB4F16536/players"
+  },
+  {
+    "ValidFrom": "20260124",
+    "ValidTo": "20260124",
+    "Name": "2. NRW Rangliste Damen/Herren 2025/2026",
+    "Country": "Germany",
+    "Region": "Castrop-Rauxel",
+    "FeedMatches": "tournamentsoftware/B733937E-2BEC-468F-B390-ECB9B784A943/matches",
+    "FeedPlayers": "tournamentsoftware/B733937E-2BEC-468F-B390-ECB9B784A943/players"
+  },
+  {
+    "ValidFrom": "20260124",
+    "ValidTo": "20260125",
+    "Name": "3. DSQV Junior Open 2025-2026",
+    "Country": "Germany",
+    "Region": "Königsbrunn",
+    "FeedMatches": "tournamentsoftware/F2C04CB0-C49F-418A-9A65-0BBC41DF5749/matches",
+    "FeedPlayers": "tournamentsoftware/F2C04CB0-C49F-418A-9A65-0BBC41DF5749/players"
+  },
+  {
+    "ValidFrom": "20260124",
+    "ValidTo": "20260125",
+    "Name": "NK Jeugd 2026 (Victoria Rotterdam)",
+    "Country": "Netherlands",
+    "Region": "Rotterdam",
+    "FeedMatches": "tournamentsoftware/0B24A37E-97E7-48C0-BDBD-CF770CFD8E9F/matches",
+    "FeedPlayers": "tournamentsoftware/0B24A37E-97E7-48C0-BDBD-CF770CFD8E9F/players"
+  },
+  {
+    "ValidFrom": "20260131",
+    "ValidTo": "20260131",
+    "Name": "Dunlop 6 - Double Yellow",
+    "Country": "Belgium",
+    "Region": "Mechelen",
+    "FeedMatches": "tournamentsoftware/0C471B00-AFB2-41FE-A04F-BD26D39F3E99/matches",
+    "FeedPlayers": "tournamentsoftware/0C471B00-AFB2-41FE-A04F-BD26D39F3E99/players"
+  },
+  {
+    "ValidFrom": "20260201",
+    "ValidTo": "20260201",
+    "Name": "2. NRW-Jugendrangliste 2025/2026 - Paderborn",
+    "Country": "Germany",
+    "Region": "Paderborn",
+    "FeedMatches": "tournamentsoftware/0ED8D2D6-B769-4DBF-A943-1273FC26D367/matches",
+    "FeedPlayers": "tournamentsoftware/0ED8D2D6-B769-4DBF-A943-1273FC26D367/players"
+  },
+  {
+    "ValidFrom": "20260207",
+    "ValidTo": "20260207",
+    "Name": "Recrean Open 2026",
+    "Country": "Belgium",
+    "Region": "Oudenaarde",
+    "FeedMatches": "tournamentsoftware/E20A668C-0F73-4AEC-A1C3-AB83D1B2676D/matches",
+    "FeedPlayers": "tournamentsoftware/E20A668C-0F73-4AEC-A1C3-AB83D1B2676D/players"
+  },
+  {
+    "ValidFrom": "20260214",
+    "ValidTo": "20260214",
+    "Name": "3. NRW Rangliste Damen/Herren 2025/2026",
+    "Country": "Germany",
+    "Region": "Eschweiler",
+    "FeedMatches": "tournamentsoftware/0C57407D-D610-4718-A71C-48D174DA5574/matches",
+    "FeedPlayers": "tournamentsoftware/0C57407D-D610-4718-A71C-48D174DA5574/players"
+  },
+  {
+    "ValidFrom": "20260226",
+    "ValidTo": "20260301",
+    "Name": "Belgische Kampioenschappen senioren 2026 - Championnats de Belgique senior 2026",
+    "Country": "Belgium",
+    "Region": "Herentals",
+    "FeedMatches": "tournamentsoftware/E7BC045F-1334-4113-B2AF-7BCF56561A9A/matches",
+    "FeedPlayers": "tournamentsoftware/E7BC045F-1334-4113-B2AF-7BCF56561A9A/players"
+  },
+  {
+    "ValidFrom": "20260228",
+    "ValidTo": "20260301",
+    "Name": "2. Masters Ranglistenturnier 2025/2026",
+    "Country": "Germany",
+    "Region": "Germering",
+    "FeedMatches": "tournamentsoftware/BB7FEACE-85E1-4BF1-BF71-434B22CB48AC/matches",
+    "FeedPlayers": "tournamentsoftware/BB7FEACE-85E1-4BF1-BF71-434B22CB48AC/players"
+  },
+  {
+    "ValidFrom": "20260307",
+    "ValidTo": "20260307",
+    "Name": "Dunlop 7 - Recrean",
+    "Country": "Belgium",
+    "Region": "Oudenaarde",
+    "FeedMatches": "tournamentsoftware/092EC4C1-0D31-460B-B070-600DCC40682A/matches",
+    "FeedPlayers": "tournamentsoftware/092EC4C1-0D31-460B-B070-600DCC40682A/players"
+  },
+  {
+    "ValidFrom": "20260307",
+    "ValidTo": "20260308",
+    "Name": "4. DSQV Junior Open 2025-2026",
+    "Country": "Germany",
+    "Region": "Achim / Baden",
+    "FeedMatches": "tournamentsoftware/000694DC-B92B-4533-A67D-D762CFE1BB30/matches",
+    "FeedPlayers": "tournamentsoftware/000694DC-B92B-4533-A67D-D762CFE1BB30/players"
+  },
+  {
+    "ValidFrom": "20260314",
+    "ValidTo": "20260314",
+    "Name": "Squash Point One Day Open 2026",
+    "Country": "Belgium",
+    "Region": "Geel",
+    "FeedMatches": "tournamentsoftware/7E19B0F4-22D8-4C66-B228-1B0F0810B268/matches",
+    "FeedPlayers": "tournamentsoftware/7E19B0F4-22D8-4C66-B228-1B0F0810B268/players"
+  },
+  {
+    "ValidFrom": "20260314",
+    "ValidTo": "20260314",
+    "Name": "4. Münchner Open 2026",
+    "Country": "Germany",
+    "Region": "Germering",
+    "FeedMatches": "tournamentsoftware/449BE2B4-3A01-40E0-9723-E4E374224FED/matches",
+    "FeedPlayers": "tournamentsoftware/449BE2B4-3A01-40E0-9723-E4E374224FED/players"
+  },
+  {
+    "ValidFrom": "20260314",
+    "ValidTo": "20260314",
+    "Name": "Heilbronn Squash Open 2026",
+    "Country": "Germany",
+    "Region": "Neckarsulm Obereisesheim",
+    "FeedMatches": "tournamentsoftware/F886544A-48A6-4DFD-AC3C-2E4C0124BF28/matches",
+    "FeedPlayers": "tournamentsoftware/F886544A-48A6-4DFD-AC3C-2E4C0124BF28/players"
+  },
+  {
+    "ValidFrom": "20260322",
+    "ValidTo": "20260322",
+    "Name": "TMG Junior Squash Series 25-26 - Houtrust Den Haag #3 (+Parents)",
+    "Country": "Netherlands",
+    "Region": "Den Haag",
+    "FeedMatches": "tournamentsoftware/9D379EFC-2248-4DC3-B180-175F88B18CEB/matches",
+    "FeedPlayers": "tournamentsoftware/9D379EFC-2248-4DC3-B180-175F88B18CEB/players"
+  },
+  {
+    "ValidFrom": "20260328",
+    "ValidTo": "20260328",
+    "Name": "Dunlop 8 - Squash22",
+    "Country": "Belgium",
+    "Region": "Luik",
+    "FeedMatches": "tournamentsoftware/61F8AC77-34FC-4479-B4EF-3F434C83955C/matches",
+    "FeedPlayers": "tournamentsoftware/61F8AC77-34FC-4479-B4EF-3F434C83955C/players"
+  },
+  {
+    "ValidFrom": "20260328",
+    "ValidTo": "20260329",
+    "Name": "6. DSQV Ranglistenturnier 2025-2026",
+    "Country": "Germany",
+    "Region": "Dresden",
+    "FeedMatches": "tournamentsoftware/C3297E63-BC83-4BE7-B5ED-F808748DB310/matches",
+    "FeedPlayers": "tournamentsoftware/C3297E63-BC83-4BE7-B5ED-F808748DB310/players"
+  },
+  {
+    "ValidFrom": "20260411",
+    "ValidTo": "20260411",
+    "Name": "4. NRW Rangliste Damen/Herren 2025/2026",
+    "Country": "Germany",
+    "Region": "Paderborn",
+    "FeedMatches": "tournamentsoftware/D8511B64-A111-4938-BCB5-CF80BD38A269/matches",
+    "FeedPlayers": "tournamentsoftware/D8511B64-A111-4938-BCB5-CF80BD38A269/players"
+  },
+  {
+    "ValidFrom": "20260412",
+    "ValidTo": "20260412",
+    "Name": "48. NRW-Jugendeinzelmeisterschaft 2026 - Duisburg",
+    "Country": "Germany",
+    "Region": "Duisburg",
+    "FeedMatches": "tournamentsoftware/6C0A4B0B-9FF7-425B-A12F-0F3350453B88/matches",
+    "FeedPlayers": "tournamentsoftware/6C0A4B0B-9FF7-425B-A12F-0F3350453B88/players"
+  },
+  {
+    "ValidFrom": "20260412",
+    "ValidTo": "20260412",
+    "Name": "TMG Junior Squash Series 25-26 - Centre Squash Drachten #4",
+    "Country": "Netherlands",
+    "Region": "Drachten",
+    "FeedMatches": "tournamentsoftware/BE11482B-9706-405B-8FBC-57F5B7CF0772/matches",
+    "FeedPlayers": "tournamentsoftware/BE11482B-9706-405B-8FBC-57F5B7CF0772/players"
+  },
+  {
+    "ValidFrom": "20260418",
+    "ValidTo": "20260418",
+    "Name": "Dunlop 9 finale - De Vaart",
+    "Country": "Belgium",
+    "Region": "Wilsele",
+    "FeedMatches": "tournamentsoftware/FE51B980-4ADB-4104-8BC8-01BDADB3061D/matches",
+    "FeedPlayers": "tournamentsoftware/FE51B980-4ADB-4104-8BC8-01BDADB3061D/players"
+  },
+  {
+    "ValidFrom": "20260424",
+    "ValidTo": "20260426",
+    "Name": "DJEM 2026 Gerlingen",
+    "Country": "Germany",
+    "Region": "Gerlingen",
+    "FeedMatches": "tournamentsoftware/02CA0152-481A-4423-B901-3E20EB552C11/matches",
+    "FeedPlayers": "tournamentsoftware/02CA0152-481A-4423-B901-3E20EB552C11/players"
+  },
+  {
+    "ValidFrom": "20260509",
+    "ValidTo": "20260509",
+    "Name": "De Vaart Leuven Open 2026",
+    "Country": "Belgium",
+    "Region": "Wilsele",
+    "FeedMatches": "tournamentsoftware/E038DE16-68AC-495C-9216-8429C9FB1EED/matches",
+    "FeedPlayers": "tournamentsoftware/E038DE16-68AC-495C-9216-8429C9FB1EED/players"
+  },
+  {
+    "ValidFrom": "20260530",
+    "ValidTo": "20260531",
+    "Name": "BK masters & dubbel 2026 - CB vétérans & doubles 2026",
+    "Country": "Belgium",
+    "Region": "TBC",
+    "FeedMatches": "tournamentsoftware/878A1F32-6ADD-4E2A-8C16-AFEC37B5F147/matches",
+    "FeedPlayers": "tournamentsoftware/878A1F32-6ADD-4E2A-8C16-AFEC37B5F147/players"
+  },
+  {
+    "ValidFrom": "20260607",
+    "ValidTo": "20260607",
+    "Name": "TMG Junior Squash Series 25-26 - Frans Otten Stadion #5 (Grand Final)",
+    "Country": "Netherlands",
+    "Region": "Amsterdam",
+    "FeedMatches": "tournamentsoftware/C81494B9-4F96-401A-8D32-1E594FC85498/matches",
+    "FeedPlayers": "tournamentsoftware/C81494B9-4F96-401A-8D32-1E594FC85498/players"
+  },
+  {
+    "ValidFrom": "20260613",
+    "ValidTo": "20260613",
+    "Name": "NRW Masters Einzelmeisterschaft 2025/2026",
+    "Country": "Germany",
+    "Region": "Unna",
+    "FeedMatches": "tournamentsoftware/A7421EFC-FEAD-4C73-930A-835B3CC1664C/matches",
+    "FeedPlayers": "tournamentsoftware/A7421EFC-FEAD-4C73-930A-835B3CC1664C/players"
+  },
+  {
+    "ValidFrom": "20260627",
+    "ValidTo": "20260627",
+    "Name": "NRW Damen/Herren Einzelmeisterschaft 2025/2026",
+    "Country": "Germany",
+    "Region": "Duisburg",
+    "FeedMatches": "tournamentsoftware/0D9FC213-2003-4E11-A18C-7F5A695D1BAF/matches",
+    "FeedPlayers": "tournamentsoftware/0D9FC213-2003-4E11-A18C-7F5A695D1BAF/players"
+  },
+  {
+    "ValidFrom": "20260801",
+    "ValidTo": "20260801",
+    "Name": "Cadillac Open 2026",
+    "Country": "Germany",
+    "Region": "Eschweiler",
+    "FeedMatches": "tournamentsoftware/4F7C74E0-EC1C-4882-A48E-79F9069FE131/matches",
+    "FeedPlayers": "tournamentsoftware/4F7C74E0-EC1C-4882-A48E-79F9069FE131/players"
   }
 ]
