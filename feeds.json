@@ -9,7 +9,7 @@
   {
     "Section": "Indian Squash test feed - League",
     "Name": "Feed 2",
-    "FeedMatches": "https://test-squore-feeds.vercel.app/match102.json",
+    "FeedMatches": "https://squore.double-yellow.be/feed/inc/feeds.www.tournamentsoftware.com.1.json",
     "ValidFrom": "20251001",
     "ValidTo": "20251201"
   },
