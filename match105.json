@@ -1,0 +1,129 @@
+{
+    "1ª Classe Masculino": [
+        {
+            "A": { "name": "Bruno Crepory [1]" },
+            "B": { "name": "Heraldo Conceição" },
+            "date": "Thu 13/11/2025",
+            "time": "18:30"
+        },
+        {
+            "A": { "name": "João Carlos [3/4]" },
+            "B": { "name": "Bernardo Miranda [2]" },
+            "date": "Sat 15/11/2025",
+            "time": "11:30"
+        }
+    ],
+    "4ª Classe Masculino": [
+        {
+            "A": { "name": "Marcelo Pena" },
+            "B": { "name": "Emilio Evaristo" },
+            "date": "Thu 13/11/2025",
+            "time": "18:30"
+        },
+        {
+            "A": { "name": "Clara Braga [3/4]" },
+            "B": { "name": "Tiago Evaristo" },
+            "date": "Sat 15/11/2025",
+            "time": "12:00"
+        }
+    ],
+    "5ª Classe Masculino": [
+        {
+            "A": { "name": "Beto Alvim [1]" },
+            "B": { "name": "Anderson Magno" },
+            "date": "Thu 13/11/2025",
+            "time": "18:30"
+        },
+        {
+            "A": { "name": "Geovanni Falcao [2]" },
+            "B": { "name": "Pedro Hezequiel" },
+            "date": "Fri 14/11/2025",
+            "time": "19:00"
+        }
+    ],
+    "6ª Classe Masculino": [
+        {
+            "A": { "name": "Eduardo Pires [3/4]" },
+            "B": { "name": "Pedro Henrique Morra" },
+            "date": "Thu 13/11/2025",
+            "time": "18:00"
+        },
+        {
+            "A": { "name": "Dhamocles Alves" },
+            "B": { "name": "Gustavo Leão" },
+            "date": "Thu 13/11/2025",
+            "time": "19:00"
+        }
+    ],
+    "3ª Classe Feminino": [
+        {
+            "A": { "name": "Bruna Dutra" },
+            "B": { "name": "Leticia Rebello" },
+            "date": "Sat 15/11/2025",
+            "time": "12:30"
+        }
+    ],
+    "5ª Classe Feminino": [
+        {
+            "A": { "name": "Carla Tutida" },
+            "B": { "name": "Priscila Grintzos" },
+            "date": "Sat 15/11/2025",
+            "time": "12:00"
+        }
+    ],
+    "5ª Classe Feminino - Group": [
+        {
+            "A": { "name": "Carla Tutida" },
+            "B": { "name": "Andrea Lucio" },
+            "date": "Fri 14/11/2025",
+            "time": "18:30"
+        },
+        {
+            "A": { "name": "Priscila Grintzos" },
+            "B": { "name": "Andrea Lucio" },
+            "date": "Sat 15/11/2025",
+            "time": "09:30"
+        }
+    ],
+    "6ª Classe Feminino": [
+        {
+            "A": { "name": "Greici Tolfo" },
+            "B": { "name": "Larissa Paiva" },
+            "date": "Sat 15/11/2025",
+            "time": "11:00"
+        }
+    ],
+    "Duplas": [
+        {
+            "A": { "name": "Bruno Muniz/Gert Wolfgang" },
+            "B": { "name": "Bernardo Miranda/Bruno Crepory" },
+            "date": "Thu 13/11/2025",
+            "time": "21:00"
+        },
+        {
+            "A": { "name": "André Almeida/Marcelo Isaias" },
+            "B": { "name": "Daniel Russo/Guilherme Davis" },
+            "date": "Sat 15/11/2025",
+            "time": "11:00"
+        }
+    ],
+    "config": {
+        "__SportNr__": 1,
+        "__SportName__": "squash",
+        "__TS_GUID__": "E05BA3D4-FBAA-4BC1-BBE4-DC811A0D679F",
+        "__TS_MATCHES_URL__": "https://www.tournamentsoftware.com/sport/matches.aspx?id=E05BA3D4-FBAA-4BC1-BBE4-DC811A0D679F",
+        "__TS_PLAYERS_URL__": "https://www.tournamentsoftware.com/sport/players.aspx?id=E05BA3D4-FBAA-4BC1-BBE4-DC811A0D679F",
+        "__generated__": "2025-10-29T07:46:50.882Z",
+        "__NumberOfHttpGets__": 12,
+        "__GenerateBy__": "nodejs-v22.18.0 tournamentsoftwarefeed-1.0.7",
+        "__nrOfMatches__": 15,
+        "__nrOfMatchesWithResult__": 0,
+        "hideCompletedMatchesFromFeed": true,
+        "numberOfPointsToWinGame": 11,
+        "numberOfGamesToWinMatch": 3,
+        "timerPauseBetweenGames": 120,
+        "name": "Torneio Interno CSC",
+        "Placeholder_Match": "${date} ${time} : ${FirstOfList:${A}${A.name}} - ${FirstOfList:${B}${B.name}} ${result}",
+        "__nrOfDraws__": 11
+    }
+}

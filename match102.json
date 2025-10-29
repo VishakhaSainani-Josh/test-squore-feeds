@@ -1,5 +1,5 @@
 {
-  "Feed 1": [
+  "Feed 2": [
     {
       "A": {
         "club": "Recrean BMW Services",
@@ -110,7 +110,7 @@
     "timerPauseBetweenGames": 120,
     "groupMatchesInFeedByCourt": false,
     "switchToPlayerListIfMatchListOfFeedIsEmpty": "DoNotUse",
-    "name": "Indian Squash test feed - Feed 1",
+    "name": "Indian Squash test feed - Feed 2",
     "Placeholder_Match": "${date} : ${A.club} - ${B.club}",
     "Placeholder_TeamPlayer": "${seqNo}. ${name}"
   }

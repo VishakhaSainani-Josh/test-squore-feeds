@@ -1,0 +1,35 @@
+{
+    "Tournament example 2 - Feed 4": [
+        {
+            "time": "2025-11-10 12:00am",
+            "court": "VC - Court 1",
+            "A": "Marika Matanatabu [1]",
+            "B": "Antonio Sigabalavu [5]"
+        },
+        {
+            "time": "2025-11-10 12:00am",
+            "court": "VC - Court 2",
+            "A": "Marika Matanatabu [1]",
+            "B": "Alipate Vakamocea [9]"
+        },
+        {
+            "time": "N/A",
+            "court": "VC - Court 2",
+            "A": "Marika Matanatabu [1]",
+            "B": "Hanisetoka Manueli [13]"
+        },
+        {
+            "time": "2025-11-30 12:30pm",
+            "court": "VC - Court 2",
+            "A": "Marika Matanatabu [1]",
+            "B": "Tale Maimanuku [17]"
+        }
+    ],
+    "config": {
+        "Placeholder_Match": "${date} ${time} : ${FirstOfList:${A}${A.name}} - ${FirstOfList:${B}${B.name}} ${result}",
+        "__nrOfMatches__": 4,
+        "__generated__": "2025-10-29T08:47:01",
+        "__SPORTYHQ_GUID__": "Nathan-Homes-Squash-Battle-Royale-Season-2",
+        "__SPORTYHQ_URL__": "https://www.sportyhq.com/tournament/view/Nathan-Homes-Squash-Battle-Royale-Season-2"
+    }
+}

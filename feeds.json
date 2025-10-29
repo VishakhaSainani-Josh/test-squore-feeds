@@ -1,22 +1,36 @@
 [
   {
-    "Section": "Indian Squash test feed",
+    "Section": "Indian Squash test feed - matches",
     "Name": "Feed 1",
     "FeedMatches": "https://test-squore-feeds.vercel.app/match101.json",
     "ValidFrom": "20251001",
     "ValidTo": "20251201"
   },
   {
-    "Section": "Indian Squash test feed",
+    "Section": "Indian Squash test feed - League",
     "Name": "Feed 2",
     "FeedMatches": "https://test-squore-feeds.vercel.app/match102.json",
     "ValidFrom": "20251001",
     "ValidTo": "20251201"
   },
   {
-    "Section": "Indian Squash test feed",
-    "Name": "Feed 3",
+    "Section": "Indian Squash test feed - Tournament",
+    "Name": "Tournament example 1 - Feed 3",
     "FeedMatches": "https://test-squore-feeds.vercel.app/match103.json",
+    "ValidFrom": "20251001",
+    "ValidTo": "20251201"
+  },
+   {
+    "Section": "Indian Squash test feed - Tournament",
+    "Name": "Tournament example 2 - Feed 4",
+    "FeedMatches": "https://test-squore-feeds.vercel.app/match104.json",
+    "ValidFrom": "20251001",
+    "ValidTo": "20251201"
+  },
+   {
+    "Section": "Indian Squash test feed - Tournament",
+    "Name": "Tournament example 3 - Feed 5",
+    "FeedMatches": "https://test-squore-feeds.vercel.app/match105.json",
     "ValidFrom": "20251001",
     "ValidTo": "20251201"
   }

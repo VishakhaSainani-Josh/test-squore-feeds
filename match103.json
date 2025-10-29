@@ -1,0 +1,89 @@
+{
+    "name": "Tournament example 1 - Feed 3",
+    "config": {
+        "numberOfPointsToWinGame": 15,
+        "numberOfGamesToWinMatch": 3,
+        "timerPauseBetweenGames": 120,
+        "skipMatchSettings": true,
+        "hideCompletedMatchesFromFeed": true,
+        "XLiveScoreUrl": "mqtt://broker.emqx.io",
+        "postEveryChangeToSupportLiveScore": true,
+        "autoSuggestToPostResult": true,
+        "captionForPostMatchResultToSite": "Stuur uitslag naar DY Boxen site",
+        "postDataPreference": "BasicWithJsonDetails",
+        "locationLast": "IHAM, Mechelen",
+        "avatarBaseURL": "https://boxen.double-yellow.be/avatars/"
+    },
+    "matches": [
+        {
+            "id": "1-25",
+            "time": "09:30",
+            "field": 1,
+            "round": "Sessie 2, Week 1",
+            "A": {
+                "name": "Casper D",
+                "avatar": "CasperD.jpeg"
+            },
+            "B": {
+                "name": "Iddo H",
+                "avatar": "IddoH.jpeg"
+            }
+        },
+        {
+            "id": "5-23",
+            "time": "09:30",
+            "field": 5,
+            "round": "Sessie 2, Week 1",
+            "A": {
+                "name": "Bert V",
+                "avatar": "BertV.jpeg"
+            },
+            "B": {
+                "name": "Emiel F",
+                "avatar": "EmielF.jpeg"
+            }
+        },
+        {
+            "id": "6-14",
+            "time": "09:30",
+            "field": 6,
+            "round": "Sessie 2, Week 1",
+            "A": {
+                "name": "David N",
+                "avatar": "DavidN.jpeg"
+            },
+            "B": {
+                "name": "Jonas M",
+                "avatar": "JonasM.jpeg"
+            }
+        },
+        {
+            "id": "7-19",
+            "time": "09:30",
+            "field": 7,
+            "round": "Sessie 2, Week 1",
+            "A": {
+                "name": "Nick P",
+                "avatar": "NickP.jpeg"
+            },
+            "B": {
+                "name": "Lucas R",
+                "avatar": "LucasR.jpeg"
+            }
+        },
+        {
+            "id": "8-22",
+            "time": "09:30",
+            "field": 8,
+            "round": "Sessie 2, Week 1",
+            "A": {
+                "name": "Tom L",
+                "avatar": "TomL.jpeg"
+            },
+            "B": {
+                "name": "Stef C",
+                "avatar": "StefC.jpeg"
+            }
+        }
+    ]
+}

@@ -2,8 +2,7 @@
   "config": {
     "name": "Indian Squash Test Feed",
     "numberOfGamesToWinMatch": 3,
-    "numberOfPointsToWinGame": 11,
-    "clubName": "Chennai Squash Club"
+    "numberOfPointsToWinGame": 11
   },
   "matches": [
     {
@@ -12,8 +11,7 @@
       "id": "101",
       "date": "2025-10-30",
       "time": "12:30",
-      "court": "Court 4",
-      "event": "Yadupati Singhania Memorial Squash Tournament"
+      "court": "Court 4"
     },
     {
       "A": "Ravi",
@@ -21,8 +19,7 @@
       "id": "102",
       "date": "2025-10-31",
       "time": "10:00",
-      "court": "Court 2",
-      "event": "Chennai Open 2025"
+      "court": "Court 2"
     },
     {
       "A": "Neha",
@@ -30,8 +27,7 @@
       "id": "103",
       "date": "2025-11-01",
       "time": "09:30",
-      "court": "Court 3",
-      "event": "Junior National Qualifiers"
+      "court": "Court 3"
     }
   ]
 }
