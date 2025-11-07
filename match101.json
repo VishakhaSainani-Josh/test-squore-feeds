@@ -4,7 +4,9 @@
     "numberOfGamesToWinMatch": 3,
     "numberOfPointsToWinGame": 11,
     "shareAction": "PostResult",
-    "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js"
+    "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
+    "LiveScoreUrl": "https://test-squore-feeds.vercel.app/api/receive.every.change",
+    "postEveryChangeToSupportLiveScore": true
   },
   "matches": [
     {

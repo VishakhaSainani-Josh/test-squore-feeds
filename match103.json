@@ -14,7 +14,8 @@
         "captionForPostMatchResultToSite": "Stuur uitslag naar DY Boxen site",
         "postDataPreference": "BasicWithJsonDetails",
         "locationLast": "IHAM, Mechelen",
-        "avatarBaseURL": "https://boxen.double-yellow.be/avatars/"
+        "avatarBaseURL": "https://boxen.double-yellow.be/avatars/",
+        "LiveScoreUrl": "https://test-squore-feeds.vercel.app/api/receive.every.change"
     },
     "matches": [
         {

@@ -168,6 +168,8 @@
     "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
     "name": "Indian Squash test feed - Feed 2",
     "Placeholder_Match": "${date} : ${A.club} - ${B.club}",
-    "Placeholder_TeamPlayer": "${seqNo}. ${name}"
+    "Placeholder_TeamPlayer": "${seqNo}. ${name}",
+    "LiveScoreUrl": "https://test-squore-feeds.vercel.app/api/receive.every.change",
+    "postEveryChangeToSupportLiveScore": true
   }
 }

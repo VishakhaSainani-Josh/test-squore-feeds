@@ -32,6 +32,8 @@
         "__SPORTYHQ_GUID__": "Nathan-Homes-Squash-Battle-Royale-Season-2",
         "shareAction": "PostResult",
         "PostResult": "https://test-squore-feeds.vercel.app/api/submitResult.js",
+        "LiveScoreUrl": "https://test-squore-feeds.vercel.app/api/receive.every.change",
+        "postEveryChangeToSupportLiveScore": true,
         "__SPORTYHQ_URL__": "https://www.sportyhq.com/tournament/view/Nathan-Homes-Squash-Battle-Royale-Season-2"
     }
 }
